@@ -1,0 +1,27 @@
+# Topics
+## 25-02-18
+- [x] Linux Filesystem
+- [x] apt
+- [ ] video editing
+- [x] linux disk commands
+- [ ] wifi hacking
+- [ ] set theory
+- [ ] ontology
+- [ ] VoNR
+- [ ] tensors, maxwell daemon
+- [ ] [What is Low Level Design or LLD? – Learn System Design](https://www.geeksforgeeks.org/what-is-low-level-design-or-lld-learn-system-design/)
+- [ ] Low-Code/No-Code frontend framework
+- [ ] Inkscape
+- [ ] Solo-entrepreneurs with AI Agents as workers
+- [ ] Sales in telecommunications, overview of market etc..
+- [ ] cold mailing
+- [ ] OVOO company, case study, 
+- [ ] STUP
+- [ ] blockchain
+- [ ] firebase (deploy own app)
+- [ ] Packt - buy 7 days free and maste [this book](https://www.packtpub.com/en-us/product/hands-on-system-programming-with-go-9781789804072)
+- [ ] Centralne twierdzenie graniczne
+- [ ] IBM Carbon design system
+- [ ] stripe payment api (other are monero, square, paypal)
+- [ ] NGINX: TechWorld with Nana Full NGINX Tutorial - Demo Project with Node.js, Docker
+- [ ] V0 by vercel
