@@ -300,3 +300,23 @@ Description: interactive processes viewer
 - Useful for checking package details **before installing**.
 
 Would you like to explore `apt depends <package>` next? 😊
+
+
+## apt vs apt-get
+https://youtu.be/YDsqni-oAPY?si=ZNxa9tzAmSE4gxpN
+
+apt integrates `apt-cache`, `apt-get` and `dpkg -i` into a unified package management system.
+
+1. Purpose and Design:
+apt is a newer, user-friendly command-line interface introduced as part of the Advanced Package Tool (APT) suite to simplify common package management tasks. It combines the functionality of several older tools (apt-get, apt-cache, etc.) into a single command with sensible defaults.
+apt-get is an older, more low-level tool that has been part of the APT suite for a long time. It offers more granular control but is less convenient for everyday package management.
+2. Ease of Use:
+apt is designed for everyday use, with shorter commands and default options that suit most scenarios.
+apt-get provides more detailed control and scripting capabilities but is less user-friendly due to its more complex syntax and output.
+3. Output and Display:
+apt provides more readable, user-friendly output with progress bars and additional information during package installation or updates.
+apt-get provides a more verbose and raw output, often preferred for scripting and detailed debugging.
+
+When to use which?
+- Use apt for most day-to-day package management tasks due to its simplicity and better user experience.
+- Use apt-get when writing scripts or when you need more granular control over package management operations.
