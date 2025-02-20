@@ -26,3 +26,4 @@
 - [ ] NGINX: TechWorld with Nana Full NGINX Tutorial - Demo Project with Node.js, Docker
 - [ ] V0 by vercel
 - [ ] KAFKA
+- [ ] Race condition
