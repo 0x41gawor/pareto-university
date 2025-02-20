@@ -25,3 +25,4 @@
 - [ ] stripe payment api (other are monero, square, paypal)
 - [ ] NGINX: TechWorld with Nana Full NGINX Tutorial - Demo Project with Node.js, Docker
 - [ ] V0 by vercel
+- [ ] KAFKA
