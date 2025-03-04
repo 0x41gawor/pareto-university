@@ -37,3 +37,4 @@ Warto chodzić, nawet, jeśli na pierwszy rzut oka się nie rozumie - prowadząc
 
 Jak nie lubisz wykładów to chociaż idź na Arabasa i Biedrzyckiego a zamiast pozostałych jebnij sobie kursik na courserze "Neural Networks and Deep Learning".
 ```
+

@@ -17,7 +17,7 @@
 - [ ] cold mailing
 - [ ] OVOO company, case study, 
 - [ ] STUP
-- [ ] blockchain
+- [ ] blockchain (https://jeiwan.net/posts/building-blockchain-in-go-part-1/)
 - [ ] firebase (deploy own app)
 - [ ] Packt - buy 7 days free and maste [this book](https://www.packtpub.com/en-us/product/hands-on-system-programming-with-go-9781789804072)
 - [ ] Centralne twierdzenie graniczne
