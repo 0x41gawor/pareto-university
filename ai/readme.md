@@ -9,7 +9,7 @@ Są też linki do dysków :D
 
 Potem na specce "Sztuczna inteligencja" mają przedmioty:
 - [Przeszukiwanie i optymalizacja (POP)](https://usosweb.usos.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&prz_kod=103A-INSZI-ISP-POP)
-- [Sztuczne sieci neuronowe](SSNE)[https://usosweb.usos.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&prz_kod=103A-INSZI-ISP-SSNE]
+- [Sztuczne sieci neuronowe(SSNE)](https://usosweb.usos.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&prz_kod=103A-INSZI-ISP-SSNE)
 - [Uczenie maszynowe (UMA)](https://usosweb.usos.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&prz_kod=103A-INSZI-ISP-UMA)
 
 A jako obieraki tej specki mamy:
