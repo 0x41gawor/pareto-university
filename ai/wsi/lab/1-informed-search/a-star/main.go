@@ -2,14 +2,39 @@ package main
 
 import (
 	bp "a-star/internal"
+	"fmt"
 	"sort"
+	"strings"
+
+	pq "github.com/jupp0r/go-priority-queue"
 )
 
 type Node []bp.ItemState
 
-func main() {
-	s0 := Node{bp.Undecided, bp.Undecided, bp.Undecided, bp.Undecided}
+// Converts a Node slice into a unique string representation
+func (n Node) String() string {
+	var sb strings.Builder
+	for _, state := range n {
+		sb.WriteString(fmt.Sprintf("%d,", state)) // Convert each state to string
+	}
+	return sb.String()
+}
 
+// Parses a string representation of Node back into a Node slice
+func parseNode(s string) Node {
+	var n Node
+	for _, ch := range strings.Split(s, ",") {
+		if ch == "" {
+			continue
+		}
+		var state bp.ItemState
+		fmt.Sscanf(ch, "%d", &state)
+		n = append(n, state)
+	}
+	return n
+}
+
+func main() {
 	// Inicjalizacja przedmiotów
 	items := []bp.Item{
 		{Profit: 16, Weight: 8},
@@ -17,14 +42,41 @@ func main() {
 		{Profit: 9, Weight: 5},
 		{Profit: 6, Weight: 2},
 	}
-
-	// Tworzymy plecak (opcjonalnie z określoną pojemnością, np. 10)
 	b1 := bp.Backpack{
-		Capacity: 9, // Można dostosować pojemność według potrzeb
+		Capacity: 9,
 		Items:    items,
 	}
+	s0 := Node{bp.Undecided, bp.Undecided, bp.Undecided, bp.Undecided}
+	A := pq.New()
+	A.Insert(s0.String(), oracle(s0, b1))
 
-	println(oracle(s0, b1))
+	for {
+		fmt.Println("------")
+		xInterface, err := A.Pop()
+		if err != nil {
+			fmt.Printf("Error while popping node %s", err.Error())
+		}
+		xStr, ok := xInterface.(string)
+		if !ok {
+			panic("Failed to assert type Node from A")
+		}
+		x := parseNode(xStr)
+		fmt.Printf("x: %s\n", x.String())
+		if isNodeTerminal(x) {
+			break
+		}
+		y1, y2 := neighbors(x)
+		fmt.Print("Neighbors:")
+		fmt.Print(y1, "-> ", oracle(y1, b1), "  ;  ")
+		fmt.Println(y2, "-> ", oracle(y2, b1))
+		if isValidNode(y1, b1) {
+			A.Insert(y1.String(), -oracle(y1, b1))
+		}
+		if isValidNode(y2, b1) {
+			A.Insert(y2.String(), -oracle(y2, b1))
+		}
+	}
+	fmt.Println("Koniec")
 }
 
 // neighbors finds the neighbor-nodes of given node n
@@ -50,43 +102,86 @@ func neighbors(n Node) (Node, Node) {
 
 // oracle estimates the best possible profit by filling the backpack greedily based on profit-to-weight ratio.
 func oracle(n Node, backpack bp.Backpack) float64 {
-	type ItemRatio struct {
-		Item  bp.Item
-		Ratio float64
-	}
+	totalProfit := 0.0
+	totalWeight := 0
 
-	var itemsWithRatio []ItemRatio
+	i := 0
 
-	// Compute profit-to-weight ratio and store copies of items
-	for i, item := range backpack.Items {
-		if n[i] == bp.Unpacked { // Ignore items that are already Packed
-			continue
+	for {
+		if n[i] == bp.Undecided {
+			break
+		} else {
+			totalProfit += float64(int(n[i])) * float64(backpack.Items[i].Profit)
+			totalWeight += int(n[i]) * backpack.Items[i].Weight
 		}
-		ratio := float64(item.Profit) / float64(item.Weight)
-		itemsWithRatio = append(itemsWithRatio, ItemRatio{Item: item, Ratio: ratio})
+		i++
+		if i >= len(n) {
+			break
+		}
 	}
 
+	if i > len(n)-1 {
+		return totalProfit
+	}
+
+	type ItemWithRatio struct {
+		ItemNo int
+		Ratio  float64
+	}
+
+	var itemsWithRatio []ItemWithRatio
+
+	// calculate ratio for left items
+	for {
+		ratio := float64(backpack.Items[i].Profit) / float64(backpack.Items[i].Weight)
+		itemsWithRatio = append(itemsWithRatio, ItemWithRatio{i, ratio})
+		i++
+		if i > len(n)-1 {
+			break
+		}
+	}
 	// Sort items by profit-to-weight ratio in descending order
 	sort.Slice(itemsWithRatio, func(i, j int) bool {
 		return itemsWithRatio[i].Ratio > itemsWithRatio[j].Ratio
 	})
 
-	// Fill the backpack greedily
-	totalProfit := 0.0
-	remainingCapacity := float64(backpack.Capacity)
+	remainingCapacity := backpack.Capacity - totalWeight
 
 	for _, item := range itemsWithRatio {
-		if remainingCapacity >= float64(item.Item.Weight) {
+		if remainingCapacity >= backpack.Items[item.ItemNo].Weight {
 			// Take the whole item
-			totalProfit += float64(item.Item.Profit)
-			remainingCapacity -= float64(item.Item.Weight)
+			totalProfit += float64(backpack.Items[item.ItemNo].Profit)
+			remainingCapacity -= backpack.Items[item.ItemNo].Weight
 		} else {
 			// Take the fraction of the item that fits
-			fraction := remainingCapacity / float64(item.Item.Weight)
-			totalProfit += fraction * float64(item.Item.Profit)
-			break // No more space left
+			fraction := float64(remainingCapacity) / float64(backpack.Items[item.ItemNo].Weight)
+			totalProfit += fraction * float64(backpack.Items[item.ItemNo].Profit)
+			break // no more space left
 		}
 	}
 
 	return totalProfit
+}
+
+// isNodeTerminal checks if a Node has any Undecided (-1) values
+func isNodeTerminal(n Node) bool {
+	for _, state := range n {
+		if state == bp.Undecided {
+			return false // Found an undecided item, so it's not terminal
+		}
+	}
+	return true // No undecided items, node is terminal
+}
+
+// isValidNode checks if the total weight of packed items does not exceed the backpack's capacity
+func isValidNode(n Node, backpack bp.Backpack) bool {
+	totalWeight := 0
+
+	for i, state := range n {
+		if state == bp.Packed { // Only count items that are packed
+			totalWeight += backpack.Items[i].Weight
+		}
+	}
+
+	return totalWeight <= backpack.Capacity
 }
