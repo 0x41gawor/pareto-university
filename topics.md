@@ -27,3 +27,4 @@
 - [ ] V0 by vercel
 - [ ] KAFKA
 - [ ] Race condition
+- [ ] [Logika](https://www.matemaks.pl/logika.html)

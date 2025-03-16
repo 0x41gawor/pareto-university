@@ -1,5 +1,7 @@
 # Research 
-Przeglądam przedmioty inżynierskie na infie po prostu.
+Przeglądam przedmioty inżynierskie na infie po prostu:
+
+![](1.png)
 
 Na 3 semie mają oni przedmiot [Wprowadzenie do sztucznej inteligencji (WSI)](https://usosweb.usos.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&prz_kod=103A-INxxx-ISP-WSI), który przed reformą nazywał się [Podstawy sztucznej inteligencji (PSZT)](https://usosweb.usos.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&prz_kod=103A-INxxx-ISP-PSZT). Myślę, że to jest dobry punkt startowy.
 
