@@ -47,5 +47,5 @@ As it is in the case of EA, we have a bunch of decision to deal with:
 - As for the `selection` we will choose the `tournament` one.
 - As for `crossover` we will choose the `one-point crossover`.
 - As for `mutation` we will use the normal distribution.
-- As for `succession` we will use the `elitary` one.
+- As for `succession` we will use the `elitism` flavor.
 
