@@ -1,30 +1,34 @@
 from util import *
+import numpy as np
 
-population_size = 10
+np.set_printoptions(precision=4, suppress=True)
+
+population_size = 100
 func = 'happycat'
-k = 5 # number of parents
-c = 5 # number of children
+k = 30 # number of parents
+c = 30 # number of children
 mp = 0.05 # mutation probability in single child 0.05 means 5%
-sigma = 2.0 # mutation strengh, mean value of step 
+sigma = 4.0 # mutation strengh, mean value of step 
 
-# Example usage
 p0 = initialization(population_size=population_size)
-evals = evaluate(p0, func)
 
-T = selection(p0, evals, k, 3)
-O = crossover(T, c)
+evals_num=0     # number of evaluations done
+pop_counter=0   # population counter
 
-print("Population")
-print(p0)
-print("Selected parents")
-print(T)
-print("Children")
-print(O)
-O = mutate(O, mp=0.5, sigma=2.0)
-print("Mutated children")
-print(O)
 P = p0
-evals = evaluate(np.vstack((P,O)), func)
-P = succession(np.vstack((P, O)), evals, population_size)
-print("Successed population")
-print(P)
+evals = []
+while evals_num < 10000:
+    evals = evaluate(P, func)
+    evals_num += population_size
+    print("🔎 Best Individual in Population ", pop_counter)
+    print_best_solution(P, evals)
+    T = selection(P, evals, k, 3)
+    O = crossover(T, c)
+    O = mutate(O, mp=0.5, sigma=2.0)
+    evals = evaluate(np.vstack((P,O)), func)
+    evals_num += (population_size+c)
+    P = succession(np.vstack((P, O)), evals, population_size)
+    pop_counter += 1
+
+print("🔎 Best Individual in Population ", pop_counter)
+print_best_solution(P, evals)

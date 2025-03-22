@@ -60,7 +60,7 @@ def evaluate(population, func_name='happycat'):
     return func(population.astype(float)) 
 
 
-def selection(population, evals, k=10, tournament_size=3):
+def selection(population, evals, k=10, tournament_size=2):
     """
     Perform tournament selection.
     
@@ -84,7 +84,6 @@ def selection(population, evals, k=10, tournament_size=3):
 
     return np.array(selected)
 
-import numpy as np
 
 def crossover(population, c):
     """
@@ -135,7 +134,7 @@ def crossover(population, c):
 
 import numpy as np
 
-def mutate(population, mp=0.05, sigma=1.0):
+def mutate(population, mp=0.05, sigma=1.0, lower_bound=-100, upper_bound=100):
     """
     Apply mutation to a population of individuals.
 
@@ -158,10 +157,10 @@ def mutate(population, mp=0.05, sigma=1.0):
 
     for i in range(n):
         if np.random.rand() < mp:
-            # Random direction: +1 or -1 for each gene
             noise = np.random.randn(d)  # from N(0, 1)
             delta =  sigma * noise
             mutated[i] += delta
+            mutated[i] = np.clip(mutated[i], lower_bound, upper_bound)
 
     return mutated
 
@@ -191,3 +190,25 @@ def succession(population, evals, k):
 
     # Return the best individuals
     return population[best_indices]
+
+
+def print_best_solution(population, evals):
+    """
+    Print the best individual from the population and its corresponding fitness.
+
+    Parameters
+    ----------
+    population : np.ndarray
+        Array of shape (n, d) representing the population.
+    fitnesses : np.ndarray
+        Array of shape (n,) containing the fitness values for each individual.
+
+    Returns
+    -------
+    None
+    """
+    best_index = np.argmin(evals)  # assuming minimization
+    best_individual = population[best_index]
+    best_fitness = evals[best_index]
+
+    print("Genes:   ", np.round(best_individual, 4), " Evaluation: ", round(best_fitness, 4))

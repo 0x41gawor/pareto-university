@@ -34,7 +34,7 @@ This is the general schema of such algorithm:
 ![](img/4.png)
 
 - `parameters initialization` - includes params about population size,  crossover or mutation possibilities, etc...
-- `initialization()` - generates first totally random population
+- `initialization()` - generates first, total random population
 - `evaluate()` - evaluates each individual (candidate solution)
 - `stop?` - in our case stopping criterium is reaching the number of 10000 evaluations
 - `selection()` - its mission is to select a subset of population, where individuals with higher evaluation have better chances to selected, these are going to be parents
@@ -43,9 +43,12 @@ This is the general schema of such algorithm:
     - `mutation()` - introduces random change in an individual genes
 - `succession()` - its purpose is to decide which individuals are going to live in the next generation
 
-As it is in the case of EA, we have a bunch of decision to deal with:
-- As for the `selection` we will choose the `tournament` one.
-- As for `crossover` we will choose the `one-point crossover`.
-- As for `mutation` we will use the normal distribution.
-- As for `succession` we will use the `elitism` flavor.
+![](img/5.png)
+
+Thus our solution looks like...
+![](img/6.svg)
+
+Let us now trace first iteration of algorithm.
+
+![](img/7.png)
 
