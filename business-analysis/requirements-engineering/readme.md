@@ -117,7 +117,7 @@ Poniższe pytania mogą pobudzić dyskusję, która prowadzi do tych informacji.
 
 Pozwalają określić kiedy problem biznesowy zostaje rozwiązany.
 
-Powinno się je precyzować w sposób konkretny realistycznie i mierzalny. Np.
+Powinno się je precyzować w sposób konkretny, realistyczny i mierzalny. Np.
 
 ![image-20250314155837397](img/image-20250314155837397.png)
 
@@ -295,7 +295,7 @@ Jak rozpoznać decyzje, które musisz przegadać z interesariuszami?
 
 
 
-W agile decyzje decyzje dotyczące wymagań podejmuje Product Owner. Co jest zgodne z odpowiedzialnością PO za tworzenie, priorytetyzację i zarządzanie elementami w Product Backlog.
+W agile decyzje dotyczące wymagań podejmuje Product Owner. Co jest zgodne z odpowiedzialnością PO za tworzenie, priorytetyzację i zarządzanie elementami w Product Backlog.
 
 > **Product Backlog** - [Rejestr Produktu](https://agileinstitute.pl/index.php/encyclopedia/rejestr-produktu/) (ang. [Product Backlog](https://agileinstitute.pl/index.php/encyclopedia/product-backlog/)) to uporządkowana lista wszystkiego, co w danym momencie wia[dom](https://agileinstitute.pl/index.php/encyclopedia/dom/)o o stanie i rozwoju produktu. Jest on jedynym źródłem wymaganych zmian, które mają być wprowadzone w produkcie. Osobą odpowiedzialną za [Rejestr Produktu](https://agileinstitute.pl/index.php/encyclopedia/rejestr-produktu/) jest [Właściciel Produktu](https://agileinstitute.pl/index.php/encyclopedia/wlasciciel-produktu/). Odpowiada on za treść poszczególnych elementów rejestru, ich dostępność oraz kolejność.
 >
@@ -461,14 +461,23 @@ Charakter liczbowy relacji pomiędzy każdą encją to **kardynalność**
 Teraz szukaj w jaki sposób każda instancja jest 
 
 - tworzona (**C**reate)
+
 - odczytywana (**R**ead)
+
 - aktualizowana (**U**pdate)
+
 - lub usuwana (**D**elete)
-- Szuka również wystąpień:
+
+​	Szukaj również wystąpień:
+
 - kopiowania (**C**opied)
+
 - listowania (**L**ist)
+
 - używania (**U**sed)
+
 - przenoszenia (**M**oved)
+
 - przekształcania (**T**ransformed)
 
 
@@ -484,6 +493,8 @@ Szukaj źródeł danych, skąd one się biorą w systemie, czy z palca, czy z ba
 ![image-20250315122751139](img/image-20250315122751139.png)
 
 Dwie horyzontalne, równoległe linie to **magazyny danych** - przechowują pewną ilość danych trwale lub tymczasowo.
+
+Szare prostokąty to zewnętrzne systemy.
 
 Na rysunku mamy 6 procesów, które chodzą non stop w systemie są pobudzane danymi i tworzą jakieś inne dane.
 
@@ -580,7 +591,7 @@ Większość BA może pozyskać wymagania, ale i tak przeoczyć coś, co jest po
 
 To ten obszar gdzie doświadczony BA naprawdę dodaje wartość.
 
-Jest to krok wykonywany albo przez BA albo tymczasowo w głowach programistów, idealny przypadek to gdy programista dostaje od BA takie instrukcje, że tylko "bezmyślnie" musi je przetworzyć na kod, nie spędzając ani chwili na żadnej analizie biznesowej, nie zadawać sobie pytania "jak to ma działać?", a jedynie tylko "ok rozumiem co ma być, jak to napisać?".
+Jest to krok wykonywany albo przez BA albo tymczasowo w głowach programistów, idealny przypadek to gdy programista dostaje od BA takie instrukcje, że tylko "bezmyślnie" musi je przetworzyć na kod, nie spędzając ani chwili na żadnej analizie biznesowej, nie zadawać sobie pytania "jak to ma działać?", a jedynie tylko "ok rozumiem co ma być, jak to teraz napisać?".
 
 Analiza obejmuje:
 
@@ -685,7 +696,7 @@ Szukanie niemożliwości implementacyjnych.
 
 #### Nakładanie się i duplikacje
 
-Gdy to możliwe, wskazuje na jedno, wiarygodne źródło informacji, zamiast je powtarzać.
+Gdy to możliwe, wskazuj na jedno, wiarygodne źródło informacji, zamiast je powtarzać.
 
 #### Zaleźności
 
@@ -700,7 +711,7 @@ Jakości zestawu wymagań ma dwa aspekty:
 
 #### Reprezentacja w różnych formach
 
-Oprócz tekstu twórz diagramy, tabele prototypy, grupujące wymagania. Ułatwia to komunikacje z interesariuszami.,
+Oprócz tekstu twórz diagramy, tabele prototypy, grupujące wymagania. Ułatwia to komunikacje z interesariuszami.
 
 #### Priorytetyzacja
 
@@ -767,7 +778,7 @@ Prototypowanie to doskonały sposób na zminiamlizowanie ryzyka budowania niewł
 
 **Prototyp interackji** - stwórz kilka ekranów i poproś usera, aby wyobraził sobie jak będzie z nim pracować
 
-**Prototyp techniczny** - pozwala zespołowi deweloperskiemu zbadać kwestiwe związane z implementację przed zatwierdzeniem określone podejścia technicznego (ja to często nazywam PoC).
+**Prototyp techniczny** - pozwala zespołowi deweloperskiemu zbadać kwestiwe związane z implementacją przed zatwierdzeniem określone podejścia technicznego (ja to często nazywam PoC).
 
 ![image-20250315165106774](img/image-20250315165106774.png)
 
@@ -803,9 +814,9 @@ Po ocenie prototypu i uwzględnieniu tej oceny w wymaganiach musisz zdecydować 
 
 ## 13. Priorytetyzacja wymagań
 
-Wymagań zawsze jest więcej niż dostępnych zasobów (ludzkich, czasowych itp.), a priorytetyzacja pozwala na maksymalizację wartości biznesowej w jak najkrótszym czasie.
+Wymagań zawsze jest więcej niż dostępnych zasobów (ludzkich, czasowych itp.), a priorytetyzacja pozwala na maksymalizację wartości biznesowej w  czasie.
 
-Interesariusze oczekują, że wszystko jest kluczowe i cięko im myśleć o priorytetach. Pytania pomocnicze w rozmowie z nimi:
+Interesariusze oczekują, że wszystko jest kluczowe i ciężko im myśleć o priorytetach. Pytania pomocnicze w rozmowie z nimi:
 
 - Co by się stało, gdyby funkcji nie było?
 
@@ -822,9 +833,9 @@ Priorytetyzacja zaczyna się od momentu pozyskania drugiego wymagania, ale pami�
 Powody dla których jedna funkcja ma wyższy priorytet od drugiej to:
 
 - Wartość biznesowej dla klienta
-- Wkładu w cele projektu.
-- kto złożył zamówienie tej funkcji
-- przewidywana częstość użycia
+- Wkład w cele projektu.
+- Kto złożył zamówienie tej funkcji
+- Przewidywana częstość użycia
 - Kosztu, trudności implementacji.
 - Wrażliwość czasowej funkcji (pilność, okno możliwości, zobowiązanie umowne) potencjalny koszt opóźnienia we wdrożeniu
 - Prawdopodobieństwa zmiany
@@ -907,7 +918,7 @@ Tu skupiaj się na realnych potrzebach użytkownika, a nie systemach czy procesa
 
 ### Różne poziomy abstrakcji
 
-Wymaganie: "System powinien reagować na polecenia edycji wprowadzane głosem".
+Wymaganie: "System powinien reagować na polecenia edycji wprowadzanej głosem".
 
 Niby jedno wymaganie, tekstowo nie rożniące się od setek i innych i na pozór tak samo ważne, ale pod nim kryje się ogrom pracy. Przecież budowa rozpoznawania mowy od zera lub intergracja z takim to ogrom pracy dający się rozbić na mniejsze wymagania.
 
@@ -961,7 +972,7 @@ Tradycyjnym podstawowym rezultatem rozwoju wymagań jest **Software Requirements
 
 ![image-20250315215554022](img/image-20250315215554022.png)
 
-Ten dokument dostają progamiści i mówi się nim "Macie, implementujcie". Podobnie jak Pan na wf rzuca piłkę i mówi "Macie, grajcie" i odchodzi ten dokument nam BA też powinien pozwolić odejść. Ma być 0 wątpliwości.
+Ten dokument dostają progamiści i mówi się nim "Macie, implementujcie". Podobnie jak Pan na wf rzuca piłkę i mówi "Macie, grajcie" i odchodzi. Ten dokument nam BA też powinien pozwolić odejść. Ma być 0 wątpliwości.
 
 ### Narzędzia jako kontenery
 
@@ -1109,7 +1120,7 @@ W idealnym świecie zespół deweloperski przyjąłby zestaw wymagań opracowany
 
 Głównie działania związane z zarządzaniem wymaganiami to:
 
-- definiowanie wymagań bazowych, czyli zestawów wymagań do określonego cyklu rozwoju
+- definiowanie wymagań bazowych, czyli zestawów wymagań do określonego cyklu rozwoju (ang. *release*)
 - kontrolę wersji wymagań, która polega na śledzeniu ewoluujących wersji zarówno poszczególnych wymaga jak i całych zestawów
 - śledzenie statusu cyklu życia (LCM) wymagań - od zgłoszenia do weryfikacji implementacji i archiwizacji
 - śledzenie wymagań wstecz do ich źródła oraz w przód do powiązanych elementów (kod, testy itp.)
@@ -1205,7 +1216,7 @@ Dlatego planowanie iteracji, wydań lub całych projektów powinno zawsze uwzgl�
 
 **Bufory zasilające** - są umieszczane na końcu iteracji, aby zapewnić pewien margines czasu.
 
-**Bufor projektu** - znajduje się na kończu harmonogramu dla całego projektu.
+**Bufor projektu** - znajduje się na końcu harmonogramu dla całego projektu.
 
 
 
