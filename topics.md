@@ -43,3 +43,4 @@
 - [ ] VoLTE session setup but first show target state and later describe how it was obtained, also include not only logical but also physical architecture, number of nodes, nodes selection etc.
 - [ ] MPK https://mfiles.pl/pl/index.php/Centrum_koszt%C3%B3w_i_jego_kontrola
 - [ ] ROI https://pl.wikipedia.org/wiki/ROI
+- [ ] cloud/redfish, cluster-API, metl3-io, envoy, netbackup, legato, veritas, keycloak, jaeger
