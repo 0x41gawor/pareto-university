@@ -7,7 +7,7 @@
 - [ ] wifi hacking
 - [ ] set theory
 - [ ] ontology
-- [ ] VoNR
+- [ ] VoNR 
 - [ ] tensors, maxwell daemon
 - [ ] [What is Low Level Design or LLD? – Learn System Design](https://www.geeksforgeeks.org/what-is-low-level-design-or-lld-learn-system-design/)
 - [ ] Low-Code/No-Code frontend framework
@@ -28,3 +28,18 @@
 - [ ] KAFKA
 - [ ] Race condition
 - [ ] [Logika](https://www.matemaks.pl/logika.html)
+- [ ] linnum linux command
+- [ ] syslog protocol
+- [ ] gray-routing
+- [ ] SRIforSM
+- [ ] GDPR, RODO, Prawo Telekomunikacyjne i UKE
+- [ ] Kafka
+- [ ] SIEM - Security information and event management
+- [ ] marketing/SKU
+- [ ] 5G Radio protocols https://www.sharetechnote.com/html/5G/5G_RadioProtocolStackArchitecture.html
+- [ ] Real Time Communication Blog: https://realtimecommunication.wordpress.com/
+- [ ] ATSSS
+- [ ] RRC states, IDLE etc..
+- [ ] VoLTE session setup but first show target state and later describe how it was obtained, also include not only logical but also physical architecture, number of nodes, nodes selection etc.
+- [ ] MPK https://mfiles.pl/pl/index.php/Centrum_koszt%C3%B3w_i_jego_kontrola
+- [ ] ROI https://pl.wikipedia.org/wiki/ROI
