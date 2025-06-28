@@ -13,24 +13,24 @@ Spis treści:
   - [2.1 Calibria](#21-cabiria-1914--pierwszy-monumentalny-epos-filmowy)
   - [2.2 D.W Griffith](#22-dw-griffith--twórca-filmowego-języka-i-ojciec-narracyjnego-montażu)
   - [2.3 Narodziny gwiazd komedii](#23-narodziny-gwiazd-komedii--chaplin-keaton-lloyd)
-- [3 Mrok, psychologia i forma (1913 - 1950+)]
+- [3 Mrok, psychologia i forma (1913 - 1950+)](#3-mrok-psychologia-i-forma-19131950)
   - [3.1 Szkoła szwedzka](#31-szkoła-szwedzka)
   - [3.2 Ekspresjonizm filmowy](#32-ekspresjonizm-filmowy--koszmar-wyrażony-obrazem)
   - [3.3 Film Noir](#33-film-noir--amerykański-cień-ekspresjonizmu)
-- [4 Rewolucja w formie - montaż, subiektywność i dźwięk (1920 - 1930+)]
+- [4 Rewolucja w formie - montaż, subiektywność i dźwięk (1920 - 1930+)](#4-rewolucja-w-formie--montaż-subiektywność-i-dźwięk-19201930)
   - [4.1 Awangarda radziecka – kino jako broń idei](#41-awangarda-radziecka--kino-jako-broń-idei)
-  - [4.2 Efekt Kuleszowa](#42-efekt-kuleszowa--narodziny-sensu-z-montażu
+  - [4.2 Efekt Kuleszowa](#42-efekt-kuleszowa--narodziny-sensu-z-montażu)
   - [4.3 Montaż wg Eistensteina](#43-montaż-wg-eisensteina)
   - [4.4 Dziedzictwo awangardy radzieckiej](#44-dziedzictwo-awangardy-radzieckiej)
   - [4.5 Eksperymenty formalne - POV i Split Screen](#45--eksperymenty-formalne--pov-i-split-screen)
   - [4.6 Początki kina dźwiękowego](#46-️-początki-kina-dźwiękowego)
-- [5 Obywatel Kane i rewolucja w ramach klasyki (1940 - 1950)]
+- [5 Obywatel Kane i rewolucja w ramach klasyki (1940 - 1950)](#5-obywatel-kane-i-rewolucja-w-ramach-klasyki-19401950)
   - [5.1 Orson Welles i potrójne autorstwo – scenariusz, reżyseria, zdjęcia](#51-orson-welles-i-potrójne-autorstwo--scenariusz-reżyseria-zdjęcia)
-  - [5.2 Obywatel Kane (1941) – formalna rewolucja](#52-2-obywatel-kane-1941--formalna-rewolucja
+  - [5.2 Obywatel Kane (1941) – formalna rewolucja](#52-2-obywatel-kane-1941--formalna-rewolucja)
   - [5.3 Welles przed „Kane’em”: „Wojna światów” (1938) – słuchowisko radiowe](#53-welles-przed-kaneem-wojna-światów-1938--słuchowisko-radiowe)
   - [5.4 Inne filmy Orsona Wellesa – dekonstrukcja klasyki](#54-inne-filmy-orsona-wellesa--dekonstrukcja-klasyki)
   - [5.5 Kontrasty i pokrewieństwa: Ford, Lang, Reed, Vidor](#55-kontrasty-i-pokrewieństwa-ford-lang-reed-vidor)
-- [6 Realizm, Nowa Fala i postmodernizm (1940 – 2000+)]
+- [6 Realizm, Nowa Fala i postmodernizm (1940 – 2000+)](#6-realizm-nowa-fala-i-postmodernizm-19402000)
   - [6.1 Realizm filmowy – od Lumière’a po DOGMĘ)](#61-realizm-filmowy--od-lumièrea-po-dogmę)
   - [6.2 Między klasyką a modernizmem](#62-między-klasyką-a-modernizmem-carné-bresson-astruc-bazin)
   - [6.3 Nowa Fala – wolność formy, wolność twórcy](#63-nowa-fala--wolność-formy-wolność-twórcy)
@@ -40,6 +40,7 @@ Spis treści:
 
 
 # 1 Narodziny kina (1895 - 1910)
+[<powrót do spisu treści>](#historia-filmu)
 
 ## 1.1 Kinetoskop
 
@@ -261,8 +262,9 @@ Tu warto omówić wpływ malarstwa na kino. Bo to od filmu **Film d'Art** się z
 Widać to również w filmach **Mélièsa** (dekoracje jak teatralne kulisy, ale często komponowane jak ilustracje baśniowe). ale też w filmie
 
 ## 2 **Kino narracyjne i narodziny gwiazd (1910–1925)**
+[<powrót do spisu treści>](#historia-filmu)
 
-ten wykład to **narodziny wielkiej narracji filmowej i komedii slapstickowej**, czyli moment, w którym kino **przestaje być ciekawostką**, a staje się **pełnoprawnym sposobem opowiadania historii** – z emocjami, bohaterami, wielkimi scenami i śmiechem.
+Ten wykład to **narodziny wielkiej narracji filmowej i komedii slapstickowej**, czyli moment, w którym kino **przestaje być ciekawostką**, a staje się **pełnoprawnym sposobem opowiadania historii** – z emocjami, bohaterami, wielkimi scenami i śmiechem.
 
 ## 2.1 „Cabiria” (1914) – pierwszy monumentalny epos filmowy
 
@@ -503,6 +505,7 @@ Gdy kino nauczyło się już opowiadać poważne historie (Griffith, Film d’Ar
 - Tablice z dialogami były używane oszczędnie – komedia opierała się na **wizualnym dowcipie**.
 
 # 3 Mrok, psychologia i forma (1913–1950+)
+[<powrót do spisu treści>](#historia-filmu)
 
 Wykład 3 to podróż przez **mroczne, malarskie i psychologiczne oblicze kina**. Trzy wielkie opowieści się tu przecinają:
 
@@ -532,13 +535,18 @@ Mauritz Stiller - Reżyser o bardziej „europejskim” stylu, tworzył melodram
 
 ### [Victor Sjöström, Wózek widmo (1921)](https://youtu.be/hzOk7hkDUew?si=02H3Nd0mIysRL-SL) – opowieść o śmierci, grzechu i odkupieniu.
 
- – słynne [**efekty duchów i przenikania przez ściany**](https://youtu.be/hzOk7hkDUew?si=q-iRCDGnGx4rK-RN&t=1739) – zrobione w kamerze, nie komputerowo!
+ – słynne [**efekty duchów i przenikania przez ściany**](https://youtu.be /hzOk7hkDUew?si=q-iRCDGnGx4rK-RN&t=1739) – zrobione w kamerze, nie komputerowo!
 
  – inspiracja dla **Bergmana** i wielu późniejszych twórców.
 
 > **Bergman** - to już jest klasyk nad klasyki, Łukasz mi go kiedyś pokazał, to że nadal nie pokazałem Ci filmu "Godzina Wilka" źle o mnie świadczy. 
 >
 > <img src="img/image-20250627214050282.png" alt="image-20250627214050282" style="zoom: 50%;" />
+
+#### 🎞️ Zdjęcia nakładane / podwójna ekspozycja
+Podwójna ekspozycja (zdjęcia nakładane) – technika łączenia dwóch obrazów na jednej klatce filmu, stosowana w celu uzyskania symbolicznego lub surrealistycznego efektu. Klasyczny chwyt montażu artystycznego. To właśnie tę technikę zastosowano w filmie Victor Sjöström, Wózek widmo (1921) przy 
+
+<img src="img/image2.png" alt="image2" style="zoom: 50%;" />
 
 ### 🌍 Znaczenie szkoły szwedzkiej:
 
@@ -656,8 +664,10 @@ teatr, literatura, efekt "dziwności", jeszcze bez charakterystycznej plastyki e
 📌 To pierwszy raz w historii kina, gdy **forma przestrzeni podporządkowana jest emocji** – a nie odwrotnie.
 
 
+<img src="img/image-20250627223046390.png" alt="image-20250627223046390" style="zoom:30%;" />
 
-<img src="img/image-20250627223046390.png" alt="image-20250627223046390" style="zoom:50%;" />
+Kaligarizm też jest mocno widoczny w teledysku [Red Hot Chilli Peppers](https://youtu.be/rn_YodiJO6k?si=-npHuIJmUrjQd-fQ), piosenki która jest de facto o myślach samobójczych.
+<img src="img/image3.png" alt="image-20250627223046390" style="zoom:60%;" />
 
 ### 🎨 **Matte painting**
 
@@ -808,8 +818,9 @@ Po tym, jak **Griffith ustalił zasady filmowej narracji**, kino rozeszło się 
 Trzy różne odpowiedzi kina na pytanie: **jak pokazać to, co niewidzialne**.
 
 # 4. Rewolucja w formie – montaż, subiektywność i dźwięk (1920–1930+)
+[<powrót do spisu treści>](#historia-filmu)
 
-ten wykład to eksplozja **eksperymentu, formy i świadomości kamery**. Mamy tu:
+Ten wykład to eksplozja **eksperymentu, formy i świadomości kamery**. Mamy tu:
 
 1. **Awangardę radziecką** – kino jako rewolucja w formie i treści.
 2. **Początki teorii montażu** – Eisenstein, Kuleszow, Pudowkin.
@@ -1022,6 +1033,8 @@ Jednoczesne pokazywanie dwóch/więcej wydarzeń.
 
 ![image-20250628012146496](img/image-20250628012146496.png)
 
+**Poliwizja** – technika podziału ekranu na kilka mniejszych, równocześnie pokazujących różne akcje lub punkty widzenia. Stosowana w eksperymentach formalnych oraz w kinie postmodernistycznym.
+
 ## 4.6 🎙️ Początki kina dźwiękowego
 
 [**„Śpiewak jazzbandu” (The Jazz Singer, 1927)**](https://youtu.be/HCPMaAnohMs?si=b6lBXtV5Ih5Sh_6G) w reżyserii Alana Croslanda to film, który przeszedł do historii jako **pierwszy dźwiękowy film fabularny**, tzw. *talkie* – czyli film z **synchronizowanym dźwiękiem mówionym**.
@@ -1065,6 +1078,7 @@ Mimo oporu, sukces *Śpiewaka jazzbandu* okazał się **komercyjnym trzęsieniem
 - **Dźwięk zamyka epokę niemoty**: *Śpiewak jazzbandu* jako symbol przełomu.
 
 # 5: Obywatel Kane i rewolucja w ramach klasyki (1940–1950)
+[<powrót do spisu treści>](#historia-filmu)
 
 **Kino autorów i eksperyment w ramach Hollywoodu**. Głównym bohaterem jest oczywiście **Orson Welles** i jego *Obywatel Kane* – film, który często pojawia się na liście „najlepszych w historii”. Obok niego pojawiają się inne tytuły i twórcy, którzy rozciągali granice klasycznego kina, często **w ramach jego zasad** – nie łamiąc ich całkowicie, lecz **eksperymentując z wnętrza**.
 
@@ -1113,6 +1127,47 @@ W tym filmie **kamera przestaje być przezroczystym rejestratorem** wydarzeń. Z
 | **Oświetlenie kontrastowe (światło-cień)** | Wprowadza estetykę noir – **mrok, dramatyzm, izolacja postaci w cieniu** (np. samotny Kane w pustej sali z echem kroków). |
 | **Low angle shots (ujęcia od dołu)**       | Budują **monumentalność i grozę** Kane’a, zwłaszcza w scenach władzy i dominacji. Czasem widać nawet sufit – rzadkość w tamtych czasach! |
 | **Kompozycja warstwowa**                   | Sceny są **wieloplanowe** – działanie rozgrywa się jednocześnie z przodu i z tyłu kadru (np. scena z lustrem: przeszłość i przyszłość Kane’a w jednej przestrzeni). |
+
+#### Wybór taśmy filmowej
+Operatorzy też zaczęli "bawić się" wyborem **taśmy filmowej**. Do tej pory standardem był 35mm. Głównymi różnicami jest rozdzielczość obrazu (potocznie zwana "jakością"). Operatorzy starali się też sprzedać klimat filmu poprzez wybór taśmy co wpływało na rodzaj jego estetyki.
+
+| Format    | Zastosowanie                                             | Cechy obrazu                                                      |
+| --------- | -------------------------------------------------------- | ----------------------------------------------------------------- |
+| **8 mm**  | kino amatorskie, domowe, eksperymentalne                 | ziarnisty, niska jakość, intymny klimat                           |
+| **16 mm** | dokument, kino niezależne, awangarda                     | tańsza niż 35 mm, mniejsza rozdzielczość, ale stylowa ziarnistość |
+| **35 mm** | standard kinowy od lat 20. XX w.                         | wysoka jakość, szeroki zakres tonalny                             |
+| **70 mm** | epickie superprodukcje (np. *Lawrence z Arabii*, *2001*) | ekstremalna jakość, duży obraz, głębia                            |
+
+<img src="img/image4.png" alt="image-20250628015449664" style="zoom:30%;" />
+
+Później pojawiły się cyfrowe odpowiedniki, które są tańsze. Warto jednak dodać, że analogowe taśmy wcale nie są gorsze niż cyfrowe formaty. I kiedy w latach 2000 ludzie w swoich telefonach mieli ledow 360p, to kino od lat 1900 roku używało obrazu 4K, który to przecież Netflix dopiero niedawno wprowadził i co za olbrzymią kasę. Kino nadal używa taśmy filmowej a nie cyfrowej kamery.
+
+| **Format analogowy** | **Orientacyjna rozdzielczość cyfrowa** | **Opis / Uwagi**                                   |
+| -------------------- | -------------------------------------- | -------------------------------------------------- |
+| **8 mm**             | \~480p–576p                            | Jakość VHS/SD, bardzo ziarnisty obraz.             |
+| **16 mm**            | \~2K (2048x1080)                       | Stylowy „film look”, lubiany w kinie niezależnym.  |
+| **35 mm**            | \~4K (4096x2160)                       | Standard kinowy; „cyfrowy złoty środek”.           |
+| **70 mm (np. IMAX)** | \~8K–12K                               | Superrozdzielczość, ogromna głębia i skala obrazu. |
+
+#### Oświetlenie trzypuntkowe
+
+Początki tej techniki widoczne są już w Niemieckim Ekspresjoniźmie, jednak jeszcze nie ustandaryzowane. Dopiero w obywatel Kane ta technika została rozbudowana.
+
+**Oświetlenie trójpunktowe** – klasyczny system oświetlenia postaci w filmie:
+- Key light – główne źródło światła
+- Fill light – wypełnia cienie
+- Back light – oddziela postać od tła.
+Pozwala na modelowanie światłocienia i tworzenie trójwymiarowości.
+
+<img src="img/image1.png" alt="image-20250628015449664" style="zoom:50%;" />
+
+#### Kaszetowanie / winietowanie
+
+Operatorzy też zaczęli manipulować obrazem poprzez umieszczanie ramki w kamerze bądź projektorze, która celowo zasłania pewien obszar wyświetlanego obrazu. Takie zabieg nazywam **kaszetowanie**. Druga zabieg manipulacji obrazem to celowe winietowanie.
+
+**Winietowanie** – wada obrazu uzyskiwanego w urządzeniu optycznym polegająca na niedoświetleniu brzegów kadru, spowodowana niedoskonałością optyki urządzenia, zakłóceniem brzegów toru optycznego innymi elementami urządzenia lub też wywołana nieodpowiednim oświetleniem. W niektórych przypadkach winietowanie jest celowo wprowadzanym efektem artystycznym, mającym zwrócić uwagę na centralną część kadru.
+
+<img src="img/image5.png" alt="image-20250628015449664" style="zoom:50%;" />
 
 #### 🧠 Dlaczego mówimy o „kinie operatorów”?
 
@@ -1224,6 +1279,7 @@ To właśnie ta **świadomość stylów i ich łamanie** uczyniła z niego **!!!
 - Nawet w systemie Hollywoodu da się **eksperymentować i zmieniać historię kina**.
 
 # 6 Realizm, Nowa Fala i postmodernizm (1940–2000+)
+[<powrót do spisu treści>](#historia-filmu)
 
 Ten ostatni wykład to **przegląd późniejszych nurtów**: **od neorealizmu włoskiego, przez francuską Nową Falę, po postmodernizm i kino historyczne**. To zarazem wykład-podsumowanie, bo zestawia dwie wielkie drogi kina:
 
@@ -1438,6 +1494,25 @@ Pojawia się w latach 70. i 80. jako odpowiedź młodych twórców wychowanych n
 ![image-20250628031828806](img/image-20250628031828806.png)
 
 ![image-20250628031940758](img/image-20250628031940758.png)
+
+Czasem: narrator niewiarygodny, gra z iluzją, cytat kulturowy.
+
+### 🔹 Styl barokowy w kinie (i neobarok francuski)
+
+Styl barokowy w kinie to przesyt formy, ozdobność, ruch kamery, światłocień i spektakl wizualny. Obraz nie tylko pokazuje – zawładnie zmysłami widza.
+
+🎨 Cechy stylu barokowego:
+- **Ruch kamery:** płynne, długie ujęcia, jazdy, obroty, steadicam.
+- **Przeładowanie kompozycji:** warstwy, lustra, refleksy, złożone kadry.
+- **Światło dramatyczne:** kontrasty, cienie, często stylizacja teatralna.
+- **Widowiskowość:** rozmach inscenizacji, scen zbiorowych, emocji.
+- **Styl > fabuła** – forma zaczyna dominować nad treścią.
+
+🎞️ Barokowe realizacje:
+- Ben-Hur (1959), Kleopatra (1963), Faraon (1966) – widowiska historyczne.
+- Upadek Cesarstwa Rzymskiego (1964) – monumentalność i inscenizacja.
+- Gladiator (2000), Braveheart (1995) – współczesne widowiska z patosem i stylem.
+
 
 ### 🔹 **Cyberpunk – ciemna strona przyszłości**
 
