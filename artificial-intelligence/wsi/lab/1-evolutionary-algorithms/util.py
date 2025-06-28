@@ -211,4 +211,4 @@ def print_best_solution(population, evals):
     best_individual = population[best_index]
     best_fitness = evals[best_index]
 
-    print("Genes:   ", np.round(best_individual, 4), " Evaluation: ", round(best_fitness, 4))
+    print("Genes:", np.round(best_individual, 4), " Evaluation:", round(best_fitness, 4))

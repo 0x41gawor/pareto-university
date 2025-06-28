@@ -52,3 +52,6 @@ Let us now trace first iteration of algorithm.
 
 ![](img/7.png)
 
+And this is the single run (loop ends after 10000 evaluations done).
+
+![](img/8.png)
