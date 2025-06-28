@@ -99,6 +99,10 @@ Mamy dwa typy obiektów do opisania aktywności - zadania i podprocesy.
 
 ![image-20250315224431247](img/image-20250315224431247.png)
 
+#### Zadanie manualne
+
+Czyli takie, które nie jest robione z pomocą silnika procesowego. Oprócz zadań bez komputera, może to być też coś wykonywane w innych programach po prostu.
+
 #### Zadanie użytkownika (user task)
 
 System przypisze to zadanie jakiemuś użytkownikowi. Może to być w systemie CRM, ERP, "help desk" itp.
@@ -106,10 +110,6 @@ System przypisze to zadanie jakiemuś użytkownikowi. Może to być w systemie C
 #### Zadanie typu usługa (service task)
 
 Silnik automatyzujący proces woła inne oprogramowanie udostępniające pewną usługę (możemy odwołać się do koncepcji SOA, architektury zorientowanej na usługi, albo też bardziej współczesnej koncepcji mikrousług).
-
-#### Zadanie manualne
-
-Czyli takie, które nie jest robione z pomocą silnika procesowego. Oprócz zadań bez komputera, może to być też coś wykonywane w innych programach po prostu.
 
 #### Zadania: wysłane i odbiór
 
@@ -182,7 +182,7 @@ Dobra konwencja:
 
 Nie musisz rysować basenu, ale on defaultowo jakiś tam jest. BPMN czasami stosuje taką koncepcję "niewidzialnych" elementów.
 
-W BPMN można tworzyć procesy publiczne oraz prywatne. Prywatny ma dużo szczegółów i można go dać do silnika wykonywalności. Prywatny to taka ocenzurowana wersja pozwalająca szybko pokazać partnerom to, co potrzebują wiedzieć o naszym sposobie działania, bez obciążania ich niepotrzebnymi informacjami o krokach procesu, które ich nie interesują.
+W BPMN można tworzyć procesy publiczne oraz prywatne. Prywatny ma dużo szczegółów i można go dać do silnika wykonywalności. Publiczny to taka ocenzurowana wersja pozwalająca szybko pokazać partnerom to, co potrzebują wiedzieć o naszym sposobie działania, bez obciążania ich niepotrzebnymi informacjami o krokach procesu, które ich nie interesują.
 
 ![image-20250316201652968](img/image-20250316201652968.png)
 
@@ -368,13 +368,13 @@ W BPMN 2.0 dodano też rodzaj uzupełniający. **Pararell event** -  Tu zdarzeni
 
 ### Dodatkowe rodzaje bramek
 
-Bramki XOR, AND i OR są sterowane danymi, można od razu na wydedukować którędy iść. A co jeśli zależy do od jakiś wydarzeń?
+Bramki XOR, AND i OR są sterowane danymi, można od razu na wydedukować którędy iść. A co jeśli zależy to od jakiś wydarzeń?
 
 #### **event-based gateway** 
 
 ![image-20250318122955801](img/image-20250318122955801.png)
 
-Kształt braki a w środku ma zdarzenie wielokrotne chwytające
+Kształt bramki a w środku ma zdarzenie wielokrotne chwytające
 
 ![image-20250318123225127](img/image-20250318123225127.png)
 
@@ -453,9 +453,9 @@ Są mechanizmy, które pozwalają określić aktywność jako wielokrotnie wykon
 
 ![image-20250318125246112](img/image-20250318125246112.png)
 
-**Loop** - daną aktywność należy wykonać tyle razi ile będzie trzeba (przy czym nie jest to z góry znana liczba)
+**Loop** - daną aktywność należy wykonać tyle razy ile będzie trzeba (przy czym nie jest to z góry znana liczba)
 
-**multi instance** - tu wiemy z góry jaka jest liczba, i mogą one iść pararelll
+**multi instance** - tu wiemy z góry jaka jest liczba, i mogą one iść pararell
 
 **multi instance in sequence**
 
