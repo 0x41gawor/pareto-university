@@ -1,3 +1,44 @@
+# Historia filmu
+Spis treści:
+- [1 Narodziny kina (1895 - 1910)](#1-narodziny-kina-1895---1910)
+  - [1.1 Kinetoskop](#11-kinetoskop)
+  - [1.2 Bracia Lumière](#12-bracia-lumière)
+  - [1.3 Polewacz polany](#13-polewacz-polany-komiks-hermana-vogla-1887)
+  - [1.4 George Méliès](#14-georges-méliès--ojciec-filmowej-fantazji-i-montażu-trickowego)
+  - [1.5 Władysław Starewicz](#15-władysław-starewicz)
+  - [1.6 Szkoła z Brighton](#16-szkoła-z-brighton-18981907)
+  - [1.7 Napad na Ekspres](#17-edwin-s-porter---napad-na-ekspres-1903)
+  - [1.8 Film D'Art](#18-film-dart)
+- [2 Kino narracyjne i narodziny gwiazd (1910 - 1925)](#2-kino-narracyjne-i-narodziny-gwiazd-19101925)
+  - [2.1 Calibria](#21-cabiria-1914--pierwszy-monumentalny-epos-filmowy)
+  - [2.2 D.W Griffith](#22-dw-griffith--twórca-filmowego-języka-i-ojciec-narracyjnego-montażu)
+  - [2.3 Narodziny gwiazd komedii](#23-narodziny-gwiazd-komedii--chaplin-keaton-lloyd)
+- [3 Mrok, psychologia i forma (1913 - 1950+)]
+  - [3.1 Szkoła szwedzka](#31-szkoła-szwedzka)
+  - [3.2 Ekspresjonizm filmowy](#32-ekspresjonizm-filmowy--koszmar-wyrażony-obrazem)
+  - [3.3 Film Noir](#33-film-noir--amerykański-cień-ekspresjonizmu)
+- [4 Rewolucja w formie - montaż, subiektywność i dźwięk (1920 - 1930+)]
+  - [4.1 Awangarda radziecka – kino jako broń idei](#41-awangarda-radziecka--kino-jako-broń-idei)
+  - [4.2 Efekt Kuleszowa](#42-efekt-kuleszowa--narodziny-sensu-z-montażu
+  - [4.3 Montaż wg Eistensteina](#43-montaż-wg-eisensteina)
+  - [4.4 Dziedzictwo awangardy radzieckiej](#44-dziedzictwo-awangardy-radzieckiej)
+  - [4.5 Eksperymenty formalne - POV i Split Screen](#45--eksperymenty-formalne--pov-i-split-screen)
+  - [4.6 Początki kina dźwiękowego](#46-️-początki-kina-dźwiękowego)
+- [5 Obywatel Kane i rewolucja w ramach klasyki (1940 - 1950)]
+  - [5.1 Orson Welles i potrójne autorstwo – scenariusz, reżyseria, zdjęcia](#51-orson-welles-i-potrójne-autorstwo--scenariusz-reżyseria-zdjęcia)
+  - [5.2 Obywatel Kane (1941) – formalna rewolucja](#52-2-obywatel-kane-1941--formalna-rewolucja
+  - [5.3 Welles przed „Kane’em”: „Wojna światów” (1938) – słuchowisko radiowe](#53-welles-przed-kaneem-wojna-światów-1938--słuchowisko-radiowe)
+  - [5.4 Inne filmy Orsona Wellesa – dekonstrukcja klasyki](#54-inne-filmy-orsona-wellesa--dekonstrukcja-klasyki)
+  - [5.5 Kontrasty i pokrewieństwa: Ford, Lang, Reed, Vidor](#55-kontrasty-i-pokrewieństwa-ford-lang-reed-vidor)
+- [6 Realizm, Nowa Fala i postmodernizm (1940 – 2000+)]
+  - [6.1 Realizm filmowy – od Lumière’a po DOGMĘ)](#61-realizm-filmowy--od-lumièrea-po-dogmę)
+  - [6.2 Między klasyką a modernizmem](#62-między-klasyką-a-modernizmem-carné-bresson-astruc-bazin)
+  - [6.3 Nowa Fala – wolność formy, wolność twórcy](#63-nowa-fala--wolność-formy-wolność-twórcy)
+  - [6.4 Szkoła Polska (1956 - 1961)](#64-szkoła-polska-19561961--rozliczenie-z-historią-i-narodową-tożsamością)
+  - [6.5 Styl barokowy, Nowa Przygoda, cyberpunk i postmodernizm](#65-styl-barokowy-nowa-przygoda-cyberpunk-i-postmodernizm)
+  - [6.6 Podział na realizm i ekspresjoznim](#66-podział-na-realizm-i-ekspresjoznim)
+
+
 # 1 Narodziny kina (1895 - 1910)
 
 ## 1.1 Kinetoskop
@@ -14,7 +55,7 @@
 
 📌 Nie był to projektor! Nie wyświetlał obrazu na ścianie — tylko jeden widz na raz patrzył do środka. Kino jako doświadczenie zbiorowe przyszło dopiero z braćmi Lumière.
 
-## 1.2 Bracia Lumiere
+## 1.2 Bracia Lumière
 
 Wymyślają kinematograf urządzenie do nagrywania i wyświetlania filmów. Wynaleziony w 1895 roku, był prawdziwym przełomem, bo jako pierwszy umożliwiał **projekcję filmu na ekran dla wielu widzów jednocześnie**.
 
@@ -1502,6 +1543,57 @@ Postmodernizm w kinie to zabawa z konwencją i świadomość formy. Cechy:
 |                                                              | **Postmodernizm** – cytat, ironia, intertekstualność, styl > treść |
 
 # ----------------------------------
+# Pokrycie zagadnień
+Scharakteryzuj poniższe kierunki filmowe (podaj krótką definicję, głównych reżyserów i najważniejsze filmy oraz przybliżone daty trwania danej tendencji, np. „lata 20-początek 30”, nie wymagam dat rocznych):
+
+- [x] Szkoła z Brighton
+
+- [x] Film d’Art
+- [x] Szkoła Szwedzka
+- [x] Awangarda Radziecka
+- [ ] Awangarda Francuska
+- [x] Ekspresjonizm i kino weimarskie
+- [x] Film Noir
+- [x] Neorealizm Włoski
+- [x] Szkoła Polska
+- [x] Nowa Fala
+- [x] Kino Nowej Przygody/Nowe Hollywood
+- [x] Cyberpunk
+- [x] Dogma 95
+- [x] Postmodernizm
+
+Omów:
+
+- [x] wpływ malarstwa na kino
+- [x] początki kina (bracia Lumière a Georges Méliès)
+- [x] przejście od kina niemego do dźwiękowego
+- [x] kino scenografów [na przykładzie Gabinetu Doktora Caligari]
+- [x] kino operatorów [na przykładzie Obywatela Kane’a]
+
+Pojęcia i terminy (itp.):
+
+- [x] plany filmowe
+- [x] zasada 180° [i jej znaczenie dla projektowania scenografii]
+- [ ] formaty taśmy filmowej
+- [ ] kaszetowanie, winieta
+- [x] travelling
+- [x] wirażowanie 
+- [x] bonimenteur/benshi (katsuben)
+- [x] ujęcie ustanawiające
+- [x] montaż (typy montażu, np. wg. Griffitha, Eisensteina)
+- [x] głębia ostrości i montaż wewnątrzkadrowy (wewnątrzujęciowy) 
+- [x] efekt Kuleszowa
+- [x] typaż
+- [x] styl zerowy (kino hollywoodzkie)
+- [ ] oświetlenie trójpunktowe
+- [ ] zdjęcia nakładane/podwójna ekspozycja
+- [x] matte painting/dorysówka
+- [x] kamera (ujęcie) subiektywna (P.O.V)  a obiektywna
+- [ ] poliwizja
+- [x] split screen
+- [ ] „MacGuffin” (wg Alfreda Hitchcocka)
+- [x] „narrator niewiarygodny”, „kłamstwo narracyjne”
+
 
 # Słownik pojęć
 
@@ -1701,56 +1793,3 @@ Kino Polskie - < wypisane filmy >
   2. **ekspresywne** – związane z emocjami lub stylem,
   3. **ideologiczne** – dotyczące wartości lub przesłania filmu.
 - **znaczenie historyczne** (*historical meaning*) – jak film odnosi się do wydarzeń, idei lub wartości z danej epoki
-
-# Pokrycie zagadnień
-
-
-Scharakteryzuj poniższe kierunki filmowe (podaj krótką definicję, głównych reżyserów i najważniejsze filmy oraz przybliżone daty trwania danej tendencji, np. „lata 20-początek 30”, nie wymagam dat rocznych):
-
-- [x] Szkoła z Brighton
-
-- [x] Film d’Art
-- [x] Szkoła Szwedzka
-- [x] Awangarda Radziecka
-- [ ] Awangarda Francuska
-- [x] Ekspresjonizm i kino weimarskie
-- [x] Film Noir
-- [x] Neorealizm Włoski
-- [x] Szkoła Polska
-- [x] Nowa Fala
-- [x] Kino Nowej Przygody/Nowe Hollywood
-- [x] Cyberpunk
-- [x] Dogma 95
-- [x] Postmodernizm
-
-Omów:
-
-- [x] wpływ malarstwa na kino
-- [x] początki kina (bracia Lumière a Georges Méliès)
-- [x] przejście od kina niemego do dźwiękowego
-- [x] kino scenografów [na przykładzie Gabinetu Doktora Caligari]
-- [x] kino operatorów [na przykładzie Obywatela Kane’a]
-
-Pojęcia i terminy (itp.):
-
-- [x] plany filmowe
-- [x] zasada 180° [i jej znaczenie dla projektowania scenografii]
-- [ ] formaty taśmy filmowej
-- [ ] kaszetowanie, winieta
-- [x] travelling
-- [x] wirażowanie 
-- [x] bonimenteur/benshi (katsuben)
-- [x] ujęcie ustanawiające
-- [x] montaż (typy montażu, np. wg. Griffitha, Eisensteina)
-- [x] głębia ostrości i montaż wewnątrzkadrowy (wewnątrzujęciowy) 
-- [x] efekt Kuleszowa
-- [x] typaż
-- [x] styl zerowy (kino hollywoodzkie)
-- [ ] oświetlenie trójpunktowe
-- [ ] zdjęcia nakładane/podwójna ekspozycja
-- [x] matte painting/dorysówka
-- [x] kamera (ujęcie) subiektywna (P.O.V)  a obiektywna
-- [ ] poliwizja
-- [x] split screen
-- [ ] „MacGuffin” (wg Alfreda Hitchcocka)
-- [x] „narrator niewiarygodny”, „kłamstwo narracyjne”
