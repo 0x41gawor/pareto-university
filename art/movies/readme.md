@@ -1617,6 +1617,111 @@ Postmodernizm w kinie to zabawa z konwencją i świadomość formy. Cechy:
 |                                                              | **Francuski Neobarok** – stylizacja, emocja, teatralność     |
 |                                                              | **Postmodernizm** – cytat, ironia, intertekstualność, styl > treść |
 
+
+Świetnie! W takim razie oto:
+
+---
+
+# 🎞️ **7 Surrealizm w kinie: sen, symbol, skandal**
+
+---
+
+## 🌌 1. **Czym jest surrealizm? (poza filmem)**
+
+Surrealizm to **ruch artystyczny i intelektualny**, który powstał we Francji po I wojnie światowej. Jego głównym celem było **uwolnienie wyobraźni spod kontroli rozumu** i konwenansów.
+
+* Początek: **1924**, *Manifest surrealistyczny* André Bretona.
+* Inspiracje: **psychoanaliza Freuda**, **marzenia senne**, **automatyzm**, **logika snu i podświadomości**.
+* Motto: **"Piękno będzie konwulsyjne, albo nie będzie go wcale."**
+
+---
+
+## 🎥 2. **Surrealizm w kinie – definicja i założenia**
+
+Surrealistyczne kino **nie opowiada historii w tradycyjny sposób**.
+Zamiast tego:
+
+* **burzy logikę narracji**,
+* **łączy ze sobą obrazy według snu, skojarzeń, lęków i pragnień**,
+* **szokuje i dekonstruuje rzeczywistość**.
+
+To **kino podświadomości**, **absurdu**, **instynktu**, **ciała** i **śmierci**.
+
+---
+
+## 🧠 3. **Cechy surrealistycznego filmu**
+
+| Cecha                         | Opis                                        |
+| ----------------------------- | ------------------------------------------- |
+| 🔁 **Brak linearnej fabuły**  | sceny nie układają się w logiczny ciąg      |
+| 🧠 **Obraz jako symbol**      | znaczenie nieoczywiste, intuicyjne          |
+| 🔪 **Szok i skandal**         | motywy przemocy, seksualności, tabu         |
+| 🛏️ **Motywy snu i marzenia** | logika nieświadomości, płynna rzeczywistość |
+| 😶 **Milczenie, gest, obraz** | minimalizacja słowa – liczy się *wrażenie*  |
+| 🔄 **Powtórzenia i cykle**    | świat zapętlony, bez wyjścia                |
+
+---
+
+## 🎬 4. **Najważniejsze filmy i twórcy surrealizmu**
+
+### 🐶 **Luis Buñuel & Salvador Dalí**
+
+* 🎞 [*Pies andaluzyjski* (*Un chien andalou*, 1929)](https://youtu.be/W8yKT7H_KJ0?si=0fl-KwHtP8qDLjj9) – 17 minut szoku.
+  → słynna scena: przecięcie oka brzytwą.
+* 🎞 [*Złoty wiek* (*L’Age d’Or*, 1930)](https://youtu.be/BmZZpVESOm0?si=IxviyJETH2E-qHG_) – zakazana, bluźniercza, antykościelna.
+
+🧠 **Obraz nie ma tłumaczyć – ma uderzać.** To filmy, które **działają jak sen** – dziwne, nieciągłe, intensywne.
+
+---
+
+### 🧬 **Jean Cocteau**
+
+* 🎞 [*Krew poety* (1930)](https://youtu.be/hgp7aJ3_VAM?si=Th8yDCqOsY0kDlMY) – film-poemat o artystycznym ego, cieniu, zmarłych.
+  Styl: **magia, teatralność, senne rytmy.**
+
+---
+
+### 🎞 **Dalsze dziedzictwo:**
+
+| Reżyser              | Film / Styl                                              | Powiązanie                                  |
+| -------------------- | -------------------------------------------------------- | ------------------------------------------- |
+| David Lynch          | *Eraserhead*, *Zagubiona autostrada*, *Mulholland Drive* | pełnoprawny surrealista XXI w.              |
+| Alejandro Jodorowsky | *Święta góra*, *Kret*                                    | mistyka + obrazowe szaleństwo               |
+| Jan Švankmajer       | *Ogród rozkoszy ziemskich*, animacje                     | surrealizm przez rzeźbę, jedzenie, teksturę |
+| Buñuel (później)     | *Dyskretny urok burżuazji*, *Piękność dnia*              | surrealizm w kostiumie klasycznego kina     |
+
+---
+
+## 🧩 5. **Pojęcia do zapamiętania**
+
+| Pojęcie                 | Znaczenie                                                            |
+| ----------------------- | -------------------------------------------------------------------- |
+| **Surrealizm**          | nurt artystyczny sięgający do snu i podświadomości                   |
+| **Logika snu**          | obrazy łączą się nie przez przyczynę, ale przez emocję i skojarzenie |
+| **Symboliczne obrazy**  | np. robaki w jedzeniu, martwe konie, powtarzające się drzwi          |
+| **Dezorientacja widza** | cecha, nie wada – widz ma *nie rozumieć dosłownie*                   |
+
+---
+
+## 🔄 6. **Gdzie surrealizm spotyka wcześniejsze wykłady?**
+
+| Nurt / Pojęcie              | Powiązanie z surrealizmem                             |
+| --------------------------- | ----------------------------------------------------- |
+| 🎞️ *Awangarda francuska*   | surrealizm to jeden z jej nurtów (obok impresjonizmu) |
+| 🖤 *Ekspresjonizm*          | wspólne: świat jako psychika                          |
+| 🎥 *Godard, Varda*          | cytują Buñuela, eksperymentują z logiką               |
+| 🕵️‍♂️ *Film noir*          | u Lyncha łączy się z oniryzmem                        |
+| 🌀 *Postmodernizm*          | Lynch, Jodorowsky – cytaty, zabawa formą              |
+| 🔪 *Narrator niewiarygodny* | surrealizm jako odrzucenie narratora w ogóle          |
+
+---
+
+## 🧠 7. **Podsumowanie**
+
+> Surrealizm filmowy to nurt, który narodził się we Francji w latach 20. XX wieku. Twórcy tacy jak Luis Buñuel czy Jean Cocteau tworzyli filmy oparte nie na fabule, lecz na logice snu, skojarzeń i podświadomości.
+>
+> Surrealizm odrzuca realizm i klasyczną narrację, szokuje obrazem, wprowadza elementy absurdu i nieciągłości. Jego dziedzictwo kontynuują m.in. David Lynch czy Jodorowsky.
+
 # ----------------------------------
 # Pokrycie zagadnień
 Scharakteryzuj poniższe kierunki filmowe (podaj krótką definicję, głównych reżyserów i najważniejsze filmy oraz przybliżone daty trwania danej tendencji, np. „lata 20-początek 30”, nie wymagam dat rocznych):
