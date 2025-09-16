@@ -1617,7 +1617,6 @@ Postmodernizm w kinie to zabawa z konwencją i świadomość formy. Cechy:
 |                                                              | **Francuski Neobarok** – stylizacja, emocja, teatralność     |
 |                                                              | **Postmodernizm** – cytat, ironia, intertekstualność, styl > treść |
 
-
 Świetnie! W takim razie oto:
 
 ---
