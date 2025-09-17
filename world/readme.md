@@ -36,7 +36,7 @@ Countries ToC:
     - [Afghanistan](#afghanistan)
     - [Tajikistan](#tajikistan)
 - Turkic:
-    - [Turkey](#turkey)
+    - [Türkiye](#türkiye)
     - [Azerbaijan](#azerbaijan)
     - [Turkmenistan](#turkmenistan)
     - [Uzbekistan](#uzbekistan)
