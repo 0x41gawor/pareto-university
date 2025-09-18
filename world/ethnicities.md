@@ -1,22 +1,28 @@
 # Pashtun
 https://en.wikipedia.org/wiki/Pashtuns
 
+![](_img/29.png)
+
 [Larsha Pekhawar | Ali Zafar ft. Gul Panra & Fortitude Pukhtoon Core | Pashto Song](https://youtu.be/lh6Ltp5Ew9k?si=tc6kYkP4rM2iqS-J)
 
 # Punjabi
 https://en.wikipedia.org/wiki/Punjabis
 
-[https://youtu.be/nWaB_7AOwdQ?si=-9SXTpYnxrU6hvFD](Sardaar Ji || Maritime Bhangra Group || Bhangra at Dartmouth-Halifax Water Front) - taniec Punjabi
+[Sardaar Ji | Maritime Bhangra Group | Bhangra at Dartmouth-Halifax Water Front](https://youtu.be/nWaB_7AOwdQ?si=-9SXTpYnxrU6hvFD) - taniec Punjabi
 
-[https://youtu.be/iNiqZzl-_G0?si=CDC0eOW6U7lJK5iF](Rahat Fateh Ali Khan - Habibi)
+[Rahat Fateh Ali Khan - Habibi](https://youtu.be/iNiqZzl-_G0?si=CDC0eOW6U7lJK5iF)
 
 # Azerbaijani
 https://en.wikipedia.org/wiki/Azerbaijanis
 
 
+![](_img/28.png)
+
 [Uzeyir Mehdizade - Yaxsi Olar ( Official Video Clip ) 2018](https://youtu.be/U4q4JwA1cp8?si=yc2LIMqKEzoKLGbG) - fajna piosenka o miłości, sprawdź konicznie tekst.
 
 # Russian
+
+![](_img/30.png)
 
 [Баста, HammAli & Navai - Где ты теперь и с кем](https://youtu.be/LQ_be1KSonc?si=oBpEAPZyOS9Y9OPq)
 
@@ -27,9 +33,12 @@ https://en.wikipedia.org/wiki/Azerbaijanis
 
 ## Egyptians
 
-[محمود الليثي و حماده الليثي ( كدة لا ) الفيديو كليب الرسمي [ 2024 ] ( Official Music Video ) Keda La](https://youtu.be/tDoDLH7bj-E?si=I2akv0es0s0NiGnV) - nie wiem kurde co to mega beka XD
+![](_img/27.png)
+
+[محمود الليثي و حماده الليثي ( كدة لا ) الفيديو كليب الرسمي 2024  Keda La](https://youtu.be/tDoDLH7bj-E?si=I2akv0es0s0NiGnV) - to typowa piosenka popowa/romantyczna z Egiptu, której tekst mówi o miłości, tęsknocie i emocjach („kocham Cię wolno”, „serce mnie boli”, „chcę, żebyś to poczuła” itp.). Nie znalazłem potwierdzenia, że klip miał cel satyryczny czy „śmieszny” w zamierzeniu – raczej używa się lekko humorystycznych motywów (np. przesadnych gestów, komicznych sytuacji) jakie bywają w arabskich wideoklipach romantycznych, ale główny ton to romantyzm i zabawa, a nie parodia.
 
 ![](_img/25.png)
+
 [Amr Diab - Nour El Ein | Official Music Video - HD Version | عمرو دياب - نور العين](https://youtu.be/KLJA-srM_yM?si=MQtzWot-O0ZLEvYy) - „Nour El Ein” (نور العين – „Światło oczu”) to przebój arabskiego popu wydany w 1996 roku przez egipskiego piosenkarza Amra Diaba (عمرو دياب), pochodzącego z Port Said w Egipcie i należącego do kultury arabskiej. Utwór, wykonywany w dialekcie egipskim, stał się międzynarodowym hitem i symbolem stylu „al-jīl”, czyli arabskiego popu łączącego tradycyjne motywy muzyki arabskiej z nowoczesnymi elementami zachodniego popu.
 
 
