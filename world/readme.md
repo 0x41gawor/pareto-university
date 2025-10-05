@@ -119,6 +119,9 @@ This maps shows the "Approximate distribution of the Semitic languages around th
 
 ![](_img/22.png)
 
+## Present day languages in Asia
+![](_img/31)
+
 ## Alphabets
 
 ![](_img/24.png)
