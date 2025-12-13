@@ -157,6 +157,8 @@ https://www.iffs.se/media/23025/cultural-map-2020_eng.pdf
 
 ![](_img/15.png)
 
+https://www.nationsonline.org/maps/Physical-World-Map-3360.jpg
+![](_img/34.png)
 ## Rivers
 
 ![](_img/16.png)
@@ -164,9 +166,13 @@ https://www.iffs.se/media/23025/cultural-map-2020_eng.pdf
 ![](_img/17.png)
 
 ## Moutain systems of Eurasia
-
 ![](_img/19.png)
 
+## Population density
+![](_img/32.png)
+https://upload.wikimedia.org/wikipedia/commons/c/c8/World_human_population_density_map.png
+
+![](_img/33.png)
 
 # Countries
 
