@@ -181,6 +181,7 @@ Snapshot - definicja poprzez atrybuty:
 - rok 
 - "events' najważniejsze wydarzenia historyczne minionego okresu (czyli w latach `[rok - rozdzielczość, rok]`)
   - wojny, upadki, reformy, odkrycia
+- notable poeple
 - "przegląd", "dive-in" ludzkości na różnych płaszczyznach
   - Wstęp (ogólny przegląd, co my tutaj mamy)
   - Technologia + inżynieria (capabilities)
@@ -191,6 +192,7 @@ Snapshot - definicja poprzez atrybuty:
   - Geopolityka (interakcje systemów, collisions, interactions)
   - Kultura i sztuka (projekcja mentalna)
   - Filozofia i religia (projekcja mentalna) 
+> Najwięcej skalowania będzie się działo na przyblizeniach z racji, ze są one mocno regionalne, będe raczej sobie selektywnie dobierał regiony (zawsze polska i jakieś inne punkty odniesienia), a potem z biegiem czasu można będzie wracać do snaphots i dodawać kolejne regiony (w celu jeszcze lepszej immersji, i tak np chiny będe sobie podusmowywał np co drugi snapshot)
 - mapy
   - mapa polityczna
   - mapa gęstości zaludnienia
