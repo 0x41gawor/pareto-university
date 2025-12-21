@@ -1,6 +1,6 @@
 # Snapshots index draft
 
-> draft czyli że nie jest to jesszcze official dokument o danej nazwie a draft myślowy, który do nie zaprowadzi
+> draft czyli że nie jest to jesszcze official dokument o danej nazwie a draft myślowy, który do niego zaprowadzi
 
 Pytanie pojawia się jak często robić snapshoty. Pierwsza moja myśli wyobrażając sobie Europę w latach 0 CE do 1450 CE to co 100 lat. I to weźmy jako punkt odniesienia. No ale na inne regiony świata i punkty czasowe to się nie przenosi. To doprawdza do sforumołowania ogólnej zasady.
 
@@ -44,7 +44,7 @@ Dlaczego?
 Najważniejsze regiony:
 - Żyzny Półksiężyc,
 - Dolina Indusu,
-- Chiny,
+- Chiny.
 
 ### Początki cywilizacji i państw
 `3 500 BCE → 1 200 BCE`
@@ -106,10 +106,10 @@ Dlaczego?
 Rozdzielczość: 25 lat Europa
 
 Dlaczego?
-energia,
-technologia,
-urbanizacja,
-państwo narodowe.
+- energia,
+- technologia,
+- urbanizacja,
+- państwo narodowe.
 
 
 ### XX wiek i dalej
@@ -118,11 +118,11 @@ państwo narodowe.
 Rozdzielczość: 10 lat Europa
 
 Dlaczego?
-wojny światowe,
-system finansowy,
-technologia,
-ideologie,
-informacja.
+- wojny światowe,
+- system finansowy,
+- technologia,
+- ideologie,
+- informacja.
 
 # Propozycja
 | Okres              | Rozdzielczość | Liczba snapshotów |
@@ -138,8 +138,4 @@ informacja.
 👉 ~60 snapshotów
 To jest ambitne, ale wykonalne, jeśli snapshot ma być 2–4 strony + mapy.
 
-Możesz też:
-
-zacząć od 30–40 kluczowych,
-
-resztę dodać później.
+Możesz też zacząć od 30–40 kluczowych, a resztę dodać później.

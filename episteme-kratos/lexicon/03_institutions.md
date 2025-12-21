@@ -108,6 +108,8 @@ A socially constructed community based on shared identity, culture, language, or
 **Why it matters:**  
 Nations create emotional cohesion, but do not necessarily require a state.
 
+cohesion - the action or fact of forming a united whole.
+
 **Wikipedia:**  
 https://en.wikipedia.org/wiki/Nation
 

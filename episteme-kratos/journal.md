@@ -210,7 +210,7 @@ Stuktura nad snapshotem będzie:
 - lexicon.md
   - chyba zrobię jeden plik i w nim rozdziały
     - lexicon/
-      ├── geopolitics/
+      ├── geopolitics/ 
       ├── economy/
       ├── technology/
       ├── engineering/
