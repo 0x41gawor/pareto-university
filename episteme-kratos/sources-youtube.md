@@ -9,3 +9,24 @@ Tu wrzucam po prostu ciekawe filmiki z YT.
 - [The Unmaking of India: How the British Impoverished the World’s Richest Country](https://youtu.be/gIzQxNZfGM4?si=iZlbBdTp0vuE7k-y)
 - [Arabia Before Islam: Religion, Society, Culture DOCUMENTARY](https://youtu.be/07OsSSt0ytc?si=Ox1YO1Nu7S4npyec)
 - Jakaś mapa technologoczina. Lata kiedy i gdzie co powstało.
+
+- [Tracing English as far back as possible](https://youtu.be/IeAx3QZ7eRs?si=AHbM7OcX5jT5QfsE)
+    - [Proto-Indo European]()
+    - [Nostratic]()
+
+```sh
+B O R E A N   (hipoteza ekstremalna)
+│
+├── NOSTRATIC
+│   ├── Proto-Indo-European
+│   ├── Proto-Uralic
+│   ├── Proto-Afroasiatic
+│   ├── Proto-Dravidian
+│   └── Proto-Kartvelian
+│
+└── Dené–Caucasian
+    ├── Sino-Tibetan
+    ├── Na-Dené
+    ├── North Caucasian
+    └── Yeniseian
+```

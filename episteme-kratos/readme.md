@@ -9,6 +9,21 @@
 
 More in depth description in -> [journal.md](journal.md).
 
+## Roadmap
+
+- [:white_check_mark:] Define lexicon-draft 
+- [ ] Define constraints
+  - [ ] Geography - Rivers, Mountains, Deserts, 
+  - [ ] Climate - 
+  - [ ] Soil fertility 
+  - [ ] Animals as a biomass energy resources 
+  - [ ] Energy resources (wood, stone, metals, coal etc..) 
+- [ ] Create prehsitory snapshots these are more like a descriptions of species rather than snapshots, base on "Vienna capture"
+- [ ] Define ethinicities
+  - [ ] People from ages inhabited regions, what changes is their rulers, langauge, etc.. but genetic code survivies
+  - [ ] Tree structure, each ethinicity grop contains its directory with readme and subdirs representing subethinicties
+  - [ ] Start with 5-7 classes of world-level divion (Europe, Semitic, Indus, China, Malese, Native Americas, Native Oceania)
+
 ## Project structure
 
 ```sh
@@ -16,18 +31,18 @@ More in depth description in -> [journal.md](journal.md).
     ├── maps/
     ├── readme.md
 - lexicon/
-    ├── - 01_historiography.md
-    ├── - 02_anthropology.md 
-    ├── - 03_institutions.md 
-    ├── - ...
+    ├── 01_historiography.md
+    ├── 02_anthropology.md 
+    ├── 03_institutions.md 
+    ├── ...
 - snapshots/
     ├── _index.md 
     ├── BCE 3000/
     ├── CE 0000/
     ├── CE 0100/
 - ethnicities/
-    ├── europeans
-    ├── arab
+    ├── europeans/
+    ├── arabs/
     ├── ...
 ```
 
