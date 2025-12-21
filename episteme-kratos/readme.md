@@ -11,7 +11,7 @@ More in depth description in -> [journal.md](journal.md).
 
 ## Roadmap
 
-- [:white_check_mark:] Define lexicon-draft 
+- [X] Define lexicon-draft 
 - [ ] Define constraints
   - [ ] Geography - Rivers, Mountains, Deserts, 
   - [ ] Climate - 
