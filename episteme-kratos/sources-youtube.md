@@ -11,8 +11,8 @@ Tu wrzucam po prostu ciekawe filmiki z YT.
 - Jakaś mapa technologoczina. Lata kiedy i gdzie co powstało.
 
 - [Tracing English as far back as possible](https://youtu.be/IeAx3QZ7eRs?si=AHbM7OcX5jT5QfsE)
-    - [Proto-Indo European]()
-    - [Nostratic]()
+    - [Proto-Indo European](https://en.wikipedia.org/wiki/Proto-Indo-European_language)
+    - [Nostratic](https://en.wikipedia.org/wiki/Nostratic_languages)
 
 ```sh
 B O R E A N   (hipoteza ekstremalna)

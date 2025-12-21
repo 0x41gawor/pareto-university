@@ -5,6 +5,11 @@
 
 - [Epic of Gilgamesh](https://en.wikipedia.org/wiki/Epic_of_Gilgamesh)
     - [Text](https://uruk-warka.dk/Gilgamish/The%20Epic%20of%20Gilgamesh.pdf)
+- [Enūma Eliš PL](https://pl.wikipedia.org/wiki/Enuma_elisz)
+- [Enūma Eliš ENG](https://en.wikipedia.org/wiki/En%C5%ABma_Eli%C5%A1)
+- Atra-Hasis
+- [Book of Sirach](https://en.wikipedia.org/wiki/Book_of_Sirach)
+- [Timeline of human evolution](https://en.wikipedia.org/wiki/Timeline_of_human_evolution)
 
 # 7,000,000 BCE
 ![](_img/01-BCE-7000000.png)
