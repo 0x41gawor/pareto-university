@@ -25,6 +25,10 @@ More in depth description in -> [journal.md](journal.md).
     ├── BCE 3000/
     ├── CE 0000/
     ├── CE 0100/
+- ethnicities/
+    ├── europeans
+    ├── arab
+    ├── ...
 ```
 
 Single snapshot structure:
