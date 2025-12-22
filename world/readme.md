@@ -59,6 +59,8 @@ Countries ToC:
 
 ![](_img/1.png)
 
+[Every major language family explained in 9 minutes](https://youtu.be/fOQ0nvM0-aY?si=lbfQS9pVSAPzzVIc)
+
 ## Indo-European languages
 ![](_img/2.png)
 
