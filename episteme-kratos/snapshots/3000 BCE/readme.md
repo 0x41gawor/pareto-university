@@ -1,2 +1,0 @@
-# Rulers
-![](maps/rulers.png)
