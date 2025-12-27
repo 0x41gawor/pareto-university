@@ -31,6 +31,10 @@
 
 # Technologia
 - [Wikipedia artykuł "Technology"](https://en.wikipedia.org/wiki/Technology)
+- Na chronas na dole są wynalazki też
+- [The Copper Age Explained (The rise of civilization)](https://youtu.be/-gBj4qAowCE?si=M_-sa0wZTmNQW5Jc)
+- [The Bronze Age Summarized (Geography People and Resources)](https://youtu.be/6rn9b7Z1ZnQ?si=8t4aYipC0tHZTyZ1)
+- [The Iron Age (History summarized on a map) Explained](https://youtu.be/ed3N16EdvT8?si=pjPWDKcxsUkc_7FK)
 
 # Mapy
 Wniosek jest taki, żę oprócz Alfabetów to chyba Chronas.org najlepsze do wszystkiego.

@@ -10,6 +10,8 @@
 - Atra-Hasis
 - [Book of Sirach](https://en.wikipedia.org/wiki/Book_of_Sirach)
 - [Timeline of human evolution](https://en.wikipedia.org/wiki/Timeline_of_human_evolution)
+- [Seven Million Years of Human Evolution #datavisualization](https://youtu.be/DZv8VyIQ7YU?si=uYOqdqF40bF1RONk)
+
 
 # 7,000,000 BCE
 ![](_img/01-BCE-7000000.png)

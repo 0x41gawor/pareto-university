@@ -57,4 +57,4 @@ Do tego ogromnym problemem stało się utrzymanie odległych prowincji, w który
 
 I tak o to się domyka ten okres. A no i w 2200 BCE był [4.2-kiloyear event](https://en.wikipedia.org/wiki/4.2-kiloyear_event). Susza trwała od 2200 BCE do 2100 BCE, co też mogło przyczynić się do upadku Imperium Akadyjskiego. Państwo, oparte na gromadzeniu nadwyżki z plonów, wcale nie było już mocniejsze skoro nadwyżej nie było. Zamiast harmonii wygrywali koczowniczy i tak już Gutejowie, którzy w takich warunkach radzili sobie spoko.
 
-//TODO https://en.wikipedia.org/wiki/Assyria (Teraz można opowiedzieć od strony Assyrian Empire).
+//TODO https://en.wikipedia.org/wiki/Assyria (Teraz można opowiedzieć od strony Assyrian Empire, które jest spadkobiercą Akkadian empire, Ci sami ludzie, bo np Babilon to już Amoryci będą inny ludi semicki).
