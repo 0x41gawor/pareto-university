@@ -16,6 +16,10 @@ Tu wrzucam po prostu ciekawe filmiki z YT.
 
 - [Who were the Canaanites? (The Land of Canaan, Geography, People and History)](https://youtu.be/a4-y6U5pezw?si=M__RuTL58Pru6VwG)
 - [Who were the Minoans? (Rise & Fall of the Minoan Civilization)](https://youtu.be/P8io674-QMA?si=tU0cYucSjr9awP2H)
+- [Petroleum - Modern history of oil on a Map](https://youtu.be/xMQUGSrnbP8?si=sYryqw_mmZax2FCR)
+- [Every Century in the First Millennium Explained](https://youtu.be/Vinl0boHxsg?si=hNQY7kFWvH10yh4t)
+- [History of the Major Trade Routes - Summary on a Map](https://youtu.be/Q7xp1-VvtZ0?si=unFI6rOlwfYugv0i)
+    - "Sad you didn't spend any time on bronze age tin trading routes."
 
 ```sh
 B O R E A N   (hipoteza ekstremalna)

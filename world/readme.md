@@ -128,7 +128,7 @@ This maps shows the "Approximate distribution of the Semitic languages around th
 
 ![](_img/24.png)
 
-## Litteracy rate
+## Literacy rate
 
 ![](_img/35.png)
 
