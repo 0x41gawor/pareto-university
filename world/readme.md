@@ -128,6 +128,10 @@ This maps shows the "Approximate distribution of the Semitic languages around th
 
 ![](_img/24.png)
 
+## Litteracy rate
+
+![](_img/35.png)
+
 # Religion
 
 ## 1st-level division:
@@ -175,6 +179,7 @@ https://www.nationsonline.org/maps/Physical-World-Map-3360.jpg
 https://upload.wikimedia.org/wikipedia/commons/c/c8/World_human_population_density_map.png
 
 ![](_img/33.png)
+
 
 # Countries
 
