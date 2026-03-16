@@ -175,3 +175,18 @@ No i wiadomix, language, sociability i mastery of the environment wszystkie nara
 ![](_img/35.png)
 
 ![](_img/36.png)
+
+Rola funkcyjna religii w wzmacnianiu norm społecznych oraz tworzeniu silnych społeczeństw była jest znana od dawna. Takie zasady jak:
+- Tit-for-tat
+- Returning favors for favors
+- Returning harms for harms
+
+Są racjonalnym następstwem of repeated interaction (repeated prisoner's dilemma). Dlatego też stanowią universal moral rules we wszystkich ludzkich społeczeństwach. 
+
+The [Golden rule](https://en.wikipedia.org/wiki/Golden_Rule) mandating that you treat others as you want them to treat you is a simply variation of tit-for-tat, one that emphasizes the benefit rather than the harm side.
+
+> (The Christian principle of returning a favor for a harm in this respect is highly unusual and, one might note, more often than not unimplemented in Christian societies. No society I know of approves returning a harm for a favor as a general moral rule within the group.)
+
+![](_img/37.png)
+
+![](_img/38.png)
