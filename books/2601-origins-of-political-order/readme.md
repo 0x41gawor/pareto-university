@@ -190,3 +190,88 @@ The [Golden rule](https://en.wikipedia.org/wiki/Golden_Rule) mandating that you 
 ![](_img/37.png)
 
 ![](_img/38.png)
+
+### The beast with red cheeks
+
+Dlaczego religie mimo, że są tak nieracjonalne jak tylko mogą być są tak ciężke do wyplewienia z ludzkiego umysłu?
+
+![](_img/39.png)
+
+```json
+{
+    "flashcards": [
+        {
+            "front": {
+                "ipa": "/ɡrəˈtuːɪtəs/",
+                "part": "adjective",
+                "word": "gratuitous"
+            },
+            "reverse": {
+                "definition": "Uncalled for; lacking good reason; unwarranted.",
+                "example": {
+                    "position": 6,
+                    "sentence": "The film was criticized for its gratuitous violence."
+                },
+                "synonyms": [
+                    "unwarranted",
+                    "unjustified",
+                    "needless",
+                    "superfluous"
+                ],
+                "translation": [
+                    "nieuzasadniony",
+                    "bezpodstawny",
+                    "niepotrzebny"
+                ]
+            }
+        }
+    ],
+    "user_id": "a4193128-4f1d-4458-9a63-862e303090e7"
+}
+```
+
+```json
+{
+    "flashcards": [
+        {
+            "front": {
+                "ipa": "/rɪˈtæliˌeɪt/",
+                "part": "verb",
+                "word": "retaliate"
+            },
+            "reverse": {
+                "definition": "To make an attack or assault in return for a similar attack.",
+                "example": {
+                    "position": 9,
+                    "sentence": "After the insult, she felt a strong urge to retaliate."
+                },
+                "synonyms": [
+                    "avenge",
+                    "reciprocate",
+                    "strike back",
+                    "hit back"
+                ],
+                "translation": [
+                    "odwetować",
+                    "odpłacić",
+                    "zrewanżować się"
+                ]
+            }
+        }
+    ],
+    "user_id": "a4193128-4f1d-4458-9a63-862e303090e7"
+}
+```
+
+These emotional responses make human beings conformist, norm-following animals.
+
+Norm following is embedded in human nature via the specific emotions of anger, shame, guilt, and pride. We feel anger when a norm is violated, such as when a stranger goes out of his way to disparage us, or when a religious ritual shared by our group is mocked or neglected. We feel shame when we ourselves fail to live up to the norm, and we feel pride when we have the approbation of the community for achieving a collectively valued goal.
+
+Economists argue that blindly following rules can be economically rational, since calculating optimal outcomes in every situation is often costly and counterproductive.
+
+If we had to constantly negotiate new rules with our fellow human beings at every turn, we would be paralyzed and unable to achieve routine collective action.
+
+![](_img/40.png)
+
+### The struggle for recognition
+
