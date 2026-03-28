@@ -275,3 +275,104 @@ If we had to constantly negotiate new rules with our fellow human beings at ever
 
 ### The struggle for recognition
 
+**The desire/struggle for recognition** is a [Hegel's](https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel) term. **Recognition** is not a good that can be consumed. Rather, it is an intersubjective state of mind by which one human being acknowledges the worth or status of another human being, or of that human being’s gods, customs, and beliefs.
+
+Recognition is usually relative rather than absolute worth. Everyone hierarchies people in their own circle. 
+
+This makes struggle for recognition a **game of zero sum**, while struggles over economic exchange is **game with positive sum**.
+
+It has biological roots, The individual who achieves alpha male status also receives greater access to sexual partners and therefore more reproductive success.
+
+The individual who achieves alpha male status also receives greater access to sexual partners and therefore more reproductive success.
+
+![](_img/41.png)
+
+So people during the ages wanted not only status for themselves but also for their customs, gods and traditions.
+
+![](_img/42.png)
+
+Coerced recognition isn’t meaningful; the admiration of a free individual is far more satisfying than the obeisance of a slave.
+
+> coerced - by force
+> obeisance - a gesture expressing respect, such as bow or cursty, a noun from 'obey'
+> curtsy -  a traditional gesture of respect, greeting, or acknowledgment performed by women and girls, involving bending the knees while bowing the head. [youtube](https://www.youtube.com/watch?v=etiMil0_4Jw)
+
+
+Political leadership emerges initially because members of a community admire a particular individual who demonstrates great physical prowess, courage, wisdom, or the ability to adjudicate disputes fairly.
+
+As political systems develop, recognition is transferred from individuals to institutions—that is, to rules or patterns of behavior that persist over time, like the British monarchy or the U.S. Constitution.
+
+But in either case, political order is based on **legitimacy** and the **authority** that arises from legitimate domination. Legitimacy means that the people who make up the society recognize the fundamental justice of the system as a whole and are willing to abide by its rules.
+
+E.g. Nowadays we obtain legitimacy by democratic elections. But democracy is hardly the only form of goverment that has been regarded as legitimate historically.
+
+### Foundations of political development
+
+We now have in place all of the important natural building blocks out of which we can construct a theory of political development.
+
+Human beings are rational, self-interested creatures, and will learn to cooperate out of pure self-interest as economists assert. But beyond this, human nature provides certain structured paths toward sociability that give human politics its particular character. These include:
+• Inclusive fitness, kin selection, and reciprocal altruism are default modes of sociability. All human beings gravitate toward the favoring of kin and friends with whom they have exchanged favors unless strongly incentivized to do otherwise. 
+• Human beings have a capacity for abstraction and theory that generates mental models of causality, and a further tendency to posit causation based on invisible or transcendental forces. This is the basis of religious belief, which acts as a critical source of social cohesion. 
+• Humans also have a proclivity for norm following that is grounded in the emotions rather than in reason, and consequently a tendency to invest mental models and the rules that flow from them with intrinsic worth. 
+• Human beings desire intersubjective recognition, either of their own worth, or of the worth of their gods, laws, customs, and ways of life. Recognition when granted becomes the basis of legitimacy, and legitimacy then permits the exercise of political authority.
+
+> proclivity - a strong, natural, and often habitual inclination or tendency towards a specific activity, behavior, or thing, typically a liking for it
+
+In its early stages, human political organization is similar to the band-level society observed in higher primates like chimpanzees. This may be regarded as a default form of social organization.
+
+Nowadays this behaviors are overriden by social norms, e.g. hiring a more qualified employee rather than a member of family, but when instituions break down, people fallback to default mode anyway. This is called with the book term **patrimonialism**.
+
+The human capacity for abstract theorizing soon produces a host of new rules for mastering the environment and regulating social behavior that go well beyond anything that exists among chimpanzees. In particular, ideas concerning dead ancestors, spirits, gods, and other invisible forces create new rules and powerful incentives for following them. Religious ideas of various sorts enormously increase the scale on which human societies can be organized and constantly generate new forms of social mobilization.
+
+The tendency to invest mental models and theories with intrinsic worth promotes social stability and allows societies to bulk up enormously in size. <u>But it also means that societies are highly conservative and will fiercely resist challenges to their dominant ideas. </u> This is most obvious in the case of religious ideas, but secular rules also tend to be invested with great emotion under the headings of tradition, ritual, and custom.
+
+The conservatism of societies with regard to rules is then a source of **political decay.**
+
+Institutions that were once created and worked for ceratain environment that no longer exists usually cannot be changed due to people's emotional attachments to them.
+
+From this reason social change is not linear, but rather a prolonged stasis followed by catastrophic change.
+
+> Stasis is a state of equilibrium, inactivity, or stoppage, often referring to the slowing of bodily fluids (like blood flow) or a period of little evolutionary change
+
+This in turn explain why violence plays so much role in political development.  As Hobbes points out "the fear of violent death" is the strongest emotion and cannot be measured by any economic rate. And this fear typicall motivates people more than mere economic self-interest.
+
+**Politics emerges as a mechanism for controlling violence**, yet sometimes only the violence is the way to escape political equilbrium.
+
+
+
+Finally, the desire for recognition ensures that politics will never be reducible to simple economic self-interest.
+
+Political power ultimately rests upon recognition—the degree to which a leader or institution is regarded as legitimate and can command the respect of a group of followers. Many can follow their leader because of self-interest ("this one is the most favorable to me, he will lead me to my own success"), but the most powerful political organizations are those that legitimate themselves on the basis of a broader idea.
+
+
+
+The huge variance that we see across politcal forms at present and also past times is the first instance the product of variance in the physical environments that human beings came to inhabit.
+
+**As societies ramify and fill different environmental niches across the globe, they develop distinctive norms and ideas** in a process known as specific evolution. Groups of humans also interact with each other, and this interaction is as much a driver of change as is the physical environment.
+
+> ramify - means to branch out, spread, or divide into many parts, often developing complex, unexpected consequences.
+
+But widely separated human societies have come up with strikingly similar solutions to the problem of political order. Virtually every society was at one time organized on the basis of kinship, whose rules increased steadily in complexity. Different societies reached these converging outcomes by a wide variety of pathways, but the fact of convergence suggests an underlying biological similarity among human groups.
+
+### Evolution and migration
+
+Transition from ape to human took place in Africa, but the exit out of Africa that led to the populating all of the world happended in two waves.
+
+What are labeled archaic human beings—species like Homo erectus and Homo ergaster—left that continent as much as 1.6–2 million years ago and found their way to northern Asia. An ergaster descendant, Homo heidelbergensis, may have left Africa and reached Europe around 300,000–400,000 years ago, and was the progenitor of later species like the famous Neanderthals who inhabited much of Europe.
+
+Anatomically modern humans (same size and physical characteristics like contemporary people) appeared 200,000 years ago.
+
+But it was only 50,000 years ago that behaviorally modern humans emerged—human beings who had the ability to communicate using language and who therefore could begin to evolve much more complex forms of social organization.
+
+**Virtually all modern human beings outside of Africa are believed, by one current theory, to be descended from a single small group of behaviorally modern humans, perhaps as few in number as 150 individuals, who left Africa and crossed what is now the Straits of Hormuz into the Arabian peninsula approximately fifty thousand years ago.**
+
+![](_img/43.png)
+
+The biblical story of the Tower of Babel, in which God scatters a unified human race and makes them speak different languages, is thus metaphorically true. As little bands of human beings migrated and adapted to different environments,
+
+As we will see in the following chapters, the first complex forms of social organization continued to be based on kinship, but they could emerge only with the assistance provided by religious ideas.
+
+## 3 The tyranny of cousins
+
+> btw: China made a transition from kinship-based forms of organization to state-level organization more than three thousand years ago,
+
