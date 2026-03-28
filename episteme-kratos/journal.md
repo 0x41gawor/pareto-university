@@ -333,5 +333,4 @@ Ostatni element, bo imo najpierw są warunki -> koordynacja, a dopiero na koniec
 
 > W microskali to też tak działa.
 
-
 Zbiór snapshotów ma za zadanie wyrobić "czucie epoki". Po kilku snapshotach chcę już mniej-więcej spojrzeć na wiek, ograniczenia 1-3 jakie się pojawiają i "czuć" co musi się w nim wydarzyć. Tak, że na koniec to co wydarza się teraz jest dla mnie oczywiste jak bułka z masłem i według tego mogę dobrać "swoją strategię" czy to życiową, czy w prowadzonych projektach/firmach.

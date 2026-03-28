@@ -376,3 +376,60 @@ As we will see in the following chapters, the first complex forms of social orga
 
 > btw: China made a transition from kinship-based forms of organization to state-level organization more than three thousand years ago,
 
+### Stages of prehistory
+
+The two basic components of biological evolution:
+- variation and
+- selection
+apply to human societies as well.
+
+Thos societies that succeed in adaptating usually win out over ones that don't.
+
+Our continuing use of terms like “developing” or “development” (as in “developing countries” or the “US Agency for International Development”) is testimony to the widespread view that existing rich countries are the product of a prior evolution of socioeconomic forms, and that poor countries would participate in this process if they could. Human political institutions are transmitted across time culturally. 
+
+Evolutionary anthropologists have designated stages based on the form of social or political organization, which I will use here since this is my subject matter. 
+Elman Service developed a four-level taxonomy involving:
+- bands,
+- tribes,
+- chiefdoms, and
+- states.
+
+For bands and tribes, social organization is based on kinship, and these societies are relatively egalitarian. Chiefdoms and states, by contrast, are organized hierarchically and exert authority on a territorial rather than a kinship basis.
+
+> *egalitarian* - believing in or based on the principle that all people are equal and deserve equal rights and opportunities.
+
+Many people believe that tribalism was a first form, but **Tribal** organization did not arise, however, until the emergence of settled societies and the development of agriculture around 9,000 years ago. The **hunter-gatherer societies** that preceded agricultural ones were organized for tens of thousands of years in a much simpler fashion, based on small groups of nomadic families comparable in scale to primate **bands**.
+
+> Such societies still exist in marginal environmental niches, and they include the Eskimos, the Bushmen of the Kalahari Desert, and Australian Aborigines.
+
+Rousseau pointed out that the origin of political inequality lay in the development of agriculture, and in this he was largely correct. Since band-level societies are preagricultural, there is no private property in any modern sense. Like chimp bands, hunter-gatherers inhabit a territorial range that they guard and occasionally fight over. But they have a lesser incentive than agriculturalists to mark out a piece of land and say “this is mine.” If their territory is invaded by another group, or if it is infiltrated by dangerous predators, band-level societies may have the option of simply moving somewhere else due to low population densities. They also tend to have fewer investments in cleared land, houses, and the like.
+
+Within Band-level group there is no economic exchange or any of the modern individualism. There is only an anthropoligtsts term **the tyrrany of cousins**. That is, your social world was limited to the circles of relatives surrounding you, who determined what you did, whom you married, how you worshipped, and just about everything else in life.
+
+Hunting and gathering is done with family or groups of families. Hunting leads to sharing, since there is no technology to store. 
+
+**There is considerable speculation on the part of evolutionary psychologists that the almost universal contemporary practice of meal sharing (Christmas, Thanksgiving, Passover) is derived from the millennia-long practice of sharing the proceeds of hunts.**
+
+Band-level societies are highly egalitarian. The major social distinctions are based on age and sex; in hunter-gatherer societies, the men hunt and the women gather, and there is a natural division of labor in reproductive matters. But within the band, there is relatively little differentiation between families, no permanent leadership, and no hierarchy. Leadership is vested in individuals based on qualities like strength, intelligence, and trustworthiness, but it tends to migrate from one individual to another. Apart from parents and their children, opportunities for coercion are very limited.
+
+> coercion - the practice of persuading someone to do something by using force or threats.
+
+In egalitarian societies it is hard to find cases in which one individual tells one or more others "Do this!". Rather it is: "If this is done, it will be good,” possibly or possibly not followed by somebody else doing it... Since the leader is unable to compel any of the others to carry out his wish, we speak of his role in terms of **authority** rather than **power**.
+
+> compel - force or oblige (someone) to do something.
+
+In this type of society, leaders emerge based on group consensus; they have no right to their office and cannot hand it down to their children. 
+
+W sumie to jest typowe jak np w szkole, w grupie znajomych, jednego dnia Ty jesteś szefem, drugiego ktoś inny, z dnia na dzień możesz stracić swój status, ludzie "się poznają na sobie" wiadomo z czasem kto jest w co dobry.
+
+Since there is no centralized source of coercion, there can obviously be no **law** in the modern sense of third-party enforcement of rules.
+
+**Band-level societies** are built around nuclear families and are typically what anthropologists label exogamous and patrilocal.
+
+> exogamous -  refers to the social practice or rule of marrying outside one's own specific group, clan, tribe, or community. It promotes genetic diversity, prevents inbreeding, and fosters social alliances with other groups. It is the opposite of endogamy (marrying within) and is often known as out-marriage.
+> patrilocal - relating to a pattern of marriage in which the couple settles in the husband's home or community.
+
+Patrilocalism, where women marry outside the band promoted genetic diversity and set the conditions for the emergence of something like intergroup trade.
+
+![](_img/44.png)
+

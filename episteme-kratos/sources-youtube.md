@@ -20,6 +20,7 @@ Tu wrzucam po prostu ciekawe filmiki z YT.
 - [Every Century in the First Millennium Explained](https://youtu.be/Vinl0boHxsg?si=hNQY7kFWvH10yh4t)
 - [History of the Major Trade Routes - Summary on a Map](https://youtu.be/Q7xp1-VvtZ0?si=unFI6rOlwfYugv0i)
     - "Sad you didn't spend any time on bronze age tin trading routes."
+- [How so - "Medieval Europe: 1000 Years in 20 Minutes"](https://youtu.be/8VPPQAcac6U?si=xRlC8N40wp_1IcYJ)
 
 ```sh
 B O R E A N   (hipoteza ekstremalna)
