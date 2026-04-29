@@ -13,6 +13,7 @@ Tu wrzucam po prostu ciekawe filmiki z YT.
 - [Tracing English as far back as possible](https://youtu.be/IeAx3QZ7eRs?si=AHbM7OcX5jT5QfsE)
     - [Proto-Indo European](https://en.wikipedia.org/wiki/Proto-Indo-European_language)
     - [Nostratic](https://en.wikipedia.org/wiki/Nostratic_languages)
+- [Szlaki rozprzestrzeniania się języków indoeuropejskich](https://youtu.be/vkUvjb3BQyw?si=xmKJeevU7vCnkb6f)
 
 - [Who were the Canaanites? (The Land of Canaan, Geography, People and History)](https://youtu.be/a4-y6U5pezw?si=M__RuTL58Pru6VwG)
 - [Who were the Minoans? (Rise & Fall of the Minoan Civilization)](https://youtu.be/P8io674-QMA?si=tU0cYucSjr9awP2H)

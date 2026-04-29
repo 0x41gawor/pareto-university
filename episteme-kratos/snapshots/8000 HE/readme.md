@@ -6,6 +6,8 @@
 ![](maps/religion.png)
 # Civilizations
 ![](maps/civilizations.png)
+# Politidal (society organistaions)
+![](maps/political.svg)
 
 
 ## Sumer

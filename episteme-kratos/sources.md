@@ -35,9 +35,13 @@
 - [The Copper Age Explained (The rise of civilization)](https://youtu.be/-gBj4qAowCE?si=M_-sa0wZTmNQW5Jc)
 - [The Bronze Age Summarized (Geography People and Resources)](https://youtu.be/6rn9b7Z1ZnQ?si=8t4aYipC0tHZTyZ1)
 - [The Iron Age (History summarized on a map) Explained](https://youtu.be/ed3N16EdvT8?si=pjPWDKcxsUkc_7FK)
+- [Wikipedia - History of technologh](https://en.wikipedia.org/wiki/History_of_technology)
+  - Tam jest roadmapa technologidal eras i by type of technology
 
 # Mapy
 Wniosek jest taki, żę oprócz Alfabetów to chyba Chronas.org najlepsze do wszystkiego.
+
+Mapa politynczna 2000 BCE.
 ## Religie
 - [Animated map shows how religion spread around the world](https://youtu.be/AvFl6UBZLv4?si=3_O6459yxlUPpo2w)
 ## Kultury
